@@ -3737,6 +3737,8 @@ http://zerotwo.access.ly:2096/bama1/7908346251/815026
 http://zerotwo.access.ly:2096/ZGSGtV/8735146029/815026
 #EXTINF:-1 tvg-id="CBS SPORTS NETWORK | US" tvg-name="CBS SPORTS NETWORK | US" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORT",CBS SPORTS NETWORK | US
 http://zerotwo.access.ly:2096/Olga24/3614431693/815026
+#EXTINF:-1 tvg-id="CBS SPORTS NETWORK | US" tvg-name="CBS SPORTS NETWORK | US" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORT",CBS SPORTS NETWORK  Wait to connect
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1 tvg-id="CBS Sports HQ" tvg-name="CBS Sports HQ" tvg-logo="" group-title="SPORT",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="CBS SPORTS GOLAZO NETWORK HD" tvg-name="CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",CBS SPORTS GOLAZO NETWORK HD
