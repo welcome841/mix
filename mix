@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="[COLOR lime]---LAST UPDATE 19/03/26---[/COLOR]" tvg-name="[COLOR lime]---LAST UPDATE 19/03/26---[/COLOR]" tvg-logo="" group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/03/26---[/COLOR]
+#EXTINF:-1 tvg-id="[COLOR lime]---LAST UPDATE 19/03/26---[/COLOR]" tvg-name="[COLOR lime]---LAST UPDATE 21/03/26---[/COLOR]" tvg-logo="" group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/03/26---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -89,7 +89,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/top-crime-s4a5ci5m7mkd.png" group-title="Canali Mediaset",Top Crime 
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Sport Mediaset" tvg-name="Sport Mediaset" tvg-logo="" group-title="Mediaset",Sport Mediaset
+#EXTINF:-1 tvg-id="Sport Mediaset" tvg-name="Sport Mediaset" tvg-logo="" group-title="Canali Mediaset",Sport Mediaset
 https://live02-col.msf.cdn.mediaset.net/live/ch-b4/b4-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="=== La 7 ===" tvg-name="=== La 7 ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="La 7",=== La 7 ===
 http://patbuweb.com/iptv/e2liste/startend.avi
