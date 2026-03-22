@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="[COLOR lime]---LAST UPDATE 19/03/26---[/COLOR]" tvg-name="[COLOR lime]---LAST UPDATE 21/03/26---[/COLOR]" tvg-logo="" group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/03/26---[/COLOR]
+#EXTINF:-1 tvg-id="[COLOR lime]---LAST UPDATE 19/03/26---[/COLOR]" tvg-name="[COLOR lime]---LAST UPDATE 22/03/26---[/COLOR]" tvg-logo="" group-title="FULLMIX",[COLOR lime]---LAST UPDATE 18/03/26---[/COLOR]
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -3507,52 +3507,45 @@ http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I
 http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/9104
 #EXTINF:-1 tvg-id="Pro Arena FHD" tvg-name="Pro Arena FHD" tvg-logo="https://www.sportitalia.com/image/original/5cd4216c00ce0.png?v=20190624091707" group-title="SPORT",Pro Arena FHD
 http://update.miicrosoft.es:80/4917624739081UWEwhatsapp/li2h4X1RdUXOIm3F63uTzx6I9frs4V/9006
-#EXTINF:-1 tvg-id="Arena Sport 1 HD HR" tvg-name="Arena Sport 1 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-1.png" group-title="SPORT",Arena Sport 1 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/486
-#EXTINF:-1 tvg-id="Arena Sport 2 HD HR" tvg-name="Arena Sport 2 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-2.png" group-title="SPORT",Arena Sport 2 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/485
-#EXTINF:-1 tvg-id="Arena Sport 3 HD HR" tvg-name="Arena Sport 3 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-3.png" group-title="SPORT",Arena Sport 3 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/12052
-#EXTINF:-1 tvg-id="Arena Sport 4 HD HR" tvg-name="Arena Sport 4 HD HR" tvg-logo="http://nova-iptv.com/logo/arena-sport-4.png" group-title="SPORT",Arena Sport 4 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/12053
-#EXTINF:-1 tvg-id="Arena Sport 5 HD HR" tvg-name="Arena Sport 5 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_5_RS_logo.png" group-title="SPORT",Arena Sport 5 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/482
-#EXTINF:-1 tvg-id="Arena Sport 6 HD HR" tvg-name="Arena Sport 6 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_6_HR_logo.png" group-title="SPORT",Arena Sport 6 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/481
-#EXTINF:-1 tvg-id="Arena Sport 7 HD HR" tvg-name="Arena Sport 7 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_7_HR_logo.png" group-title="SPORT",Arena Sport 7 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/12106
-#EXTINF:-1 tvg-id="Arena Sport 8 HD HR" tvg-name="Arena Sport 8 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_8_HR_logo.png" group-title="SPORT",Arena Sport 8 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/12107
-#EXTINF:-1 tvg-id="Arena Sport 9 HD HR" tvg-name="Arena Sport 9 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_9_HR_logo.png" group-title="SPORT",Arena Sport 9 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/12108
-#EXTINF:-1 tvg-id="Arena Sport 10 HD HR" tvg-name="Arena Sport 10 HD HR" tvg-logo="http://nova-iptv.com/logo/Arena_Sport_10_HR_logo.png" group-title="SPORT",Arena Sport 10 HD HR
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/12109
-#EXTINF:-1 tvg-id="AL: Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="" group-title="SPORT",AL: Tring Sport 3 HD
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/9738
-#EXTINF:-1 tvg-id="AL: Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 HD" tvg-logo="" group-title="SPORT",AL: Tring Sport 2 HD
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/9740
-#EXTINF:-1 tvg-id="AL: Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="" group-title="SPORT",AL: Tring Sport 1 HD
-http://tv.nova-iptv.com:80/Sara_Horvat/q8NcUOfT9f/9742
 
-#EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",Tring Sport 1 (Albania) (🇦🇱)
-http://g-med.xyz:25461/live/z-latko@h_orbec!@/urXpd@-_!CxCjtxH/474.m3u8
-#EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",Tring Sport 2 (Albania) (🇦🇱)
-http://g-med.xyz:25461/live/z-latko@h_orbec!@/urXpd@-_!CxCjtxH/475.m3u8
-#EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",Super Sport 1 (Albania) (🇦🇱)
-http://g-med.xyz:25461/live/z-latko@h_orbec!@/urXpd@-_!CxCjtxH/470.m3u8
-#EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",Super Sport 2 (Albania) (🇦🇱)
-http://g-med.xyz:25461/live/z-latko@h_orbec!@/urXpd@-_!CxCjtxH/471.m3u8
-#EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",Sky Sport F1 (Italia) (🇮🇹)
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
-#EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",Sky Sport Moto GP (Italia) (🇮🇹)
-https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 1 RAW 50FPS FHD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312727&extension=ts&play_token=46BZjvkxwW
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 2 RAW 50FPS FHD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312728&extension=ts&play_token=plyJd6WQKd
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 1 HEVC FHD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312717&extension=ts&play_token=vtfiGFeiyX
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 2 HEVC FHD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312718&extension=ts&play_token=tcaReFnb0I
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 1 HEVC HD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312719&extension=ts&play_token=avDr9CLsJI
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 2 HEVC HD IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312720&extension=ts&play_token=5zsLdqKEtJ
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 1 FHD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312725&extension=ts&play_token=QW43eoXuBR
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 2 FHD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312726&extension=ts&play_token=avfZlGSQou
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="SPORT",┃UK┃ PREMIER SPORTS  1 HD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312723&extension=ts&play_token=fJKR6SUDpR
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 2 HD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312724&extension=ts&play_token=gX30Cg1wnW
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 1 SD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312721&extension=ts&play_token=0TAfHhmOpr
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 2 SD (IRELAND)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312722&extension=ts&play_token=m9PENRQNVx
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 1.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 1 FHD (UK)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312729&extension=ts&play_token=uj2uO6WlDP
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="SPORT",┃UK┃ PREMIER SPORTS 2 FHD (UK)
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312730&extension=ts&play_token=6h3HTEHdv8
+#EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SERIE A ITALY/INTER MILAN.png" group-title="SPORT",┃UK┃ SERIE A - INTER MILAN FHD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1314053&extension=ts&play_token=gxB4mAs04v
+
 
 #EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",eurosport1 DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
 #EXTINF:-1 tvg-id="sport1" tvg-name="sport1" tvg-logo="" group-title="SPORT",sport1
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #EXTINF:-1 tvg-id="Teledeporte ES" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="SPORT",Teledeporte ES
-https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/854.m3u8
 #EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="" group-title="SPORT",ESPN SD
 http://corgol.com@181.114.57.246:4000/play/3jZRN66nDhuZwLbW
 #EXTINF:-1 tvg-id="ESPN SD" tvg-name="ESPN SD" tvg-logo="" group-title="SPORT",ESPN SD
@@ -4308,13 +4301,13 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="TVE LA 2" tvg-name="TVE LA 2" tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="Vari",TVE LA 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 #EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="Vari",ANTENA 3
-http://176.65.146.237:8401/play/a0ae/index.m3u8
+http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/992.m3u8
 #EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO" tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="Vari",CUATRO
-http://176.65.146.237:8401/play/a09s/index.m3u8
+http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/995.m3u8
 #EXTINF:-1 tvg-id="TELECINCO" tvg-name="TELECINCO" tvg-logo="https://i.ibb.co/7gMg1nb/t5es.png" group-title="Vari",TELECINCO
-http://176.65.146.237:8401/play/a09r/index.m3u8
+http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/996.m3u8
 #EXTINF:-1 tvg-id="LA SEXTA" tvg-name="LA SEXTA" tvg-logo="https://i.ibb.co/6JF4BK4/l6es.png" group-title="Vari",LA SEXTA
-http://176.65.146.237:8401/play/a0af/index.m3u8
+http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/998.m3u8
 #EXTINF:-1 tvg-id="TVE 24h" tvg-name="TVE 24h" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="Vari",TVE 24h
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png" group-title="Vari",La 1
