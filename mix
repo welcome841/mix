@@ -3702,7 +3702,9 @@ http://zerotwo.access.ly:2096/bama1/7908346251/761495
 http://zerotwo.access.ly:2096/DougB2023/6501492738/761495
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://zerotwo.access.ly:2096/live/Gerobie2121/3654078129/761495.m3u8
-#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CANADA: TLN" tvg-logo="https://dencheetah.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2XXnOW8i4sc-vKP7h90JDfqlnWn-Ta_cgepraOVU1Le.png" group-title="SPORT",CA: TLN
+#EXTINF:-1 tvg-id="tln.ca" tvg-name="CA TLN" tvg-logo="http://185.193.88.130:80/images/68e3cf855cf476bd88f3e8bc1e2ec86c.png" group-title="SPORT",CANADA TLN
+http://ky-tv.cc:80/Steve666/Steve666/1044577.ts
+#EXTINF:-1 tvg-id="TLN.ca" tvg-name="CANADA: TLN" tvg-logo="https://dencheetah.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2XXnOW8i4sc-vKP7h90JDfqlnWn-Ta_cgepraOVU1Le.png" group-title="SPORT",CANADA: TLN
 https://watch.startecmedia.xyz:443/live/SeanK22/9Sz5cGPbTWhS/662599.ts
 #EXTINF:-1 tvg-id="CND| TLN" tvg-name="CND| TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
 http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
@@ -3710,6 +3712,8 @@ http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
 #EXTINF:-1 tvg-id="CBS Sports Network USA HD" tvg-name="CBS Sports Network USA HD" tvg-logo="" group-title="SPORT",CBS Sports Network USA HD
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="USA CBS Sports Network" tvg-logo="http://185.193.88.130:80/images/52ce678200229d09111c8299a7b60e7e.png" group-title="SPORT",USA CBS Sports Network
+http://ky-tv.cc:80/Steve666/Steve666/176607.ts
 #EXTINF:-1 tvg-id="US CBS Sports Network HD " tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="SPORT",US CBS Sports Network HD 
 http://tv14s.xyz:8080/5198074934/wiljosmail@gmail.com/10454
 #EXTINF:-1 tvg-id="USA: CBS SPORTS NETWORK" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
@@ -4116,6 +4120,8 @@ http://1tv41.icu:8080/ufBu62/935118/20194
 #EXTINF:-1 tvg-id="BBC NEWS HD" tvg-name="BBC NEWS HD" tvg-logo="" group-title="UK-USA",BBC NEWS HD
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 #EXTINF:-1 tvg-id="itv1 HD" tvg-name="itv1 HD" tvg-logo="" group-title="UK-USA",itv1 HD
+http://ky-tv.cc:80/Steve666/Steve666/1151892.ts
+#EXTINF:-1 tvg-id="itv1 HD" tvg-name="itv1 HD" tvg-logo="" group-title="UK-USA",itv1 HD
 http://1tv41.icu:8080/ufBu62/935118/53651
 #EXTINF:-1 tvg-id="itv2 HD" tvg-name="itv2 HD" tvg-logo="" group-title="UK-USA",itv2 HD
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
@@ -4304,7 +4310,7 @@ https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TVE LA 1" tvg-name="TVE LA 1" tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="Vari",TVE LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="TVE LA 2" tvg-name="TVE LA 2" tvg-logo="https://i.ibb.co/ssGmhbH/la2.jpg" group-title="Vari",TVE LA 2
-https://odin4.afroditatv.xyz:8443/live/pedritoalexrodrigo/q0Ac5k5oKA/5800.m3u8
+https://odin4.afroditatv.xyz:8443/live/pablojosemartin/rSmv6qwaiO/5800.m3u8
 #EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ANTENA 3" tvg-logo="https://i.ibb.co/hYTkm8L/A3es.png" group-title="Vari",ANTENA 3
 http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/992.m3u8
 #EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO" tvg-logo="https://i.ibb.co/hRs6WrH/C4es.png" group-title="Vari",CUATRO
