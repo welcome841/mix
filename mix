@@ -3538,7 +3538,22 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=13127
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1312730&extension=ts&play_token=6h3HTEHdv8
 #EXTINF:-1  tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SERIE A ITALY/INTER MILAN.png" group-title="SPORT",┃UK┃ SERIE A - INTER MILAN FHD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BC:7F:C6&stream=1314053&extension=ts&play_token=gxB4mAs04v
-
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK TNT Sports 1" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 1
+http://ky-tv.cc:80/Steve666/Steve666/1846762.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK TNT Sports 2" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 2
+http://ky-tv.cc:80/Steve666/Steve666/1846763.ts
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK TNT Sports 3" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 3
+http://ky-tv.cc:80/Steve666/Steve666/1846764.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="UK TNT Sports 4" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 4
+http://ky-tv.cc:80/Steve666/Steve666/2274006.ts
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="UK TNT Sports 5" tvg-logo="https://i.ibb.co/sJc3Cyw/TNT-Sports-2023-svg.png" group-title="SPORT",UK TNT Sports 5
+http://ky-tv.cc:80/Steve666/Steve666/3074933.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK TNT Sports 6" tvg-logo="" group-title="SPORT",UK TNT Sports 6
+http://ky-tv.cc:80/Steve666/Steve666/3026054.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK TNT Sports 7" tvg-logo="" group-title="SPORT",UK TNT Sports 7
+http://ky-tv.cc:80/Steve666/Steve666/3026055.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK TNT Sports 8" tvg-logo="" group-title="SPORT",UK TNT Sports 8
+http://ky-tv.cc:80/Steve666/Steve666/3026056.ts
 
 #EXTINF:-1 tvg-id="eurosport1 DE" tvg-name="eurosport1 DE" tvg-logo="" group-title="SPORT",eurosport1 DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
