@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 22-03-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 23-03-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
