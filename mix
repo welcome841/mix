@@ -175,14 +175,11 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 tvg-id="RSI La1" tvg-name="RSI La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/320px-RSI_La_1_2012.svg.png" group-title="Svizzera",RSI La1 hd
-https://netplus.zappr.stream/rsila1hd.m3u8
-#EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2 hd
-https://netplus.zappr.stream/rsila2hd.m3u8
 #EXTINF:-1 tvg-id="RSI La1" tvg-name="RSI La1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/320px-RSI_La_1_2012.svg.png" group-title="Svizzera",RSI La1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2 
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+https://netplus.zappr.stream/rsila2hd.m3u8
+
 #EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1 (stream mdp)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2 (stream mdp)
@@ -199,8 +196,7 @@ https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 #EXTINF:-1 tvg-id="SRF info (stream mdp)" tvg-name="SRF info (stream mdp)" tvg-logo="" group-title="Svizzera",SRF info (stream mdp)
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
-#EXTINF:-1 tvg-id="Pack" tvg-name="Pack" tvg-logo="" group-title="Svizzera",Pack
-https://iptv-ch.github.io/netplus.mpd
+
 #EXTINF:-1 tvg-id="=== Estero ===" tvg-name="=== Estero ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Estero",=== Estero ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="" group-title="Estero",Rai 1
