@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 29-03-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 01-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -495,6 +495,8 @@ https://live03-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest_hd.mpd
 https://jmp2.uk/stvp-IT3900003FE
 #EXTINF:-1 tvg-id="Italian Fishing TV" tvg-name="Italian Fishing TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT600001L6_20241022T051638SQUARE.png" group-title="Documentari",Italian Fishing TV
 https://jmp2.uk/stvp-IT600001L6
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Caccia_pesca.png" group-title="Documentari",┃IT┃ PESCA E CACCIA FHD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=177674&extension=ts&play_token=jbSTF65ovy
 #EXTINF:-1 tvg-id="The Boat Show" tvg-name="The Boat Show" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD10000040W_20241022T043904SQUARE.png" group-title="Documentari",The Boat Show
 http://ugeen.live:8080/exskypeleoshare-jordansat4u/50/3879
 #EXTINF:-1 tvg-id="PBS Nature" tvg-name="PBS Nature" tvg-logo="" group-title="Documentari",PBS Nature
@@ -1341,8 +1343,8 @@ https://58d921499d3d3.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 https://fms.telemar.it:1936/telechiara/diretta/chunklist_w285735564.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telecittà.jpg" group-title="Veneto",Telecittà Padova 
 https://soobeat.fluid.stream/Telecitta/livestream/playlist.m3u8?FLID=2&type=.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenuovo.png" group-title="Veneto",Telenuovo (Offline)
-https://ovp2-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenuovo.png" group-title="Veneto",Telenuovo
+https://ovp-live.akamaized.net/ac106_live/ac106_source_001_3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televenezia.jpg" group-title="Veneto",TeleVenezia
 https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/terre-euganee-channel.webp" group-title="Veneto",Terre Euganee Channel 
@@ -4084,10 +4086,16 @@ http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/53978
 http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/65942
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://i.imgur.com/njVJJyf.png" group-title="SPORT",DAZN 1 HD
 http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/106812
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/ZONA DAZN/ZONA DAZN.png" group-title="SPORT",┃IT┃ ZONA DAZN
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=1158737&extension=ts&play_token=1SZljYHRys
 #EXTINF:-1 tvg-id="Serie A Inter HD" tvg-name="Serie A Inter HD" tvg-logo="https://i.imgur.com/Tu2zKdq.png" group-title="SPORT",Serie A Inter HD
 http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/158843
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SERIE A TEAMS/INTER.png" group-title="SPORT",┃IT┃ INTER HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=1158677&extension=ts&play_token=pXAKiQ8GPk
 #EXTINF:-1 tvg-id="Serie B Monza HD" tvg-name="Serie B Monza HD" tvg-logo="https://i.imgur.com/iSpyJQh.png" group-title="SPORT",Serie B Monza HD
 http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/158951
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SERIE A TEAMS/MONZA.png" group-title="SPORT",┃IT┃ MONZA HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=1158713&extension=ts&play_token=ASe4ohWcPe
 #EXTINF:-1 tvg-id="AMAZON PRIME BAR HD" tvg-name="AMAZON PRIME BAR HD" tvg-logo="https://i.imgur.com/cbxTWad.png" group-title="SPORT",AMAZON PRIME BAR HD
 http://doctorsud.privres.top:80/krQ16kzZ/c1mKUjz/135606
 #EXTINF:-1 tvg-id="SKY SPORT 24 HD" tvg-name="SKY SPORT 24 HD" tvg-logo="https://i.ibb.co/mrp4v4p/sport-24.png" group-title="SPORT",SKY SPORT 24 HD
