@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 01-04-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 02-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali RAI",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -179,6 +179,10 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2 
 https://netplus.zappr.stream/rsila2hd.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/RSI_La_1_2012.svg.png" group-title="Svizzera",┃IT┃ RSI LA 1 FHD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=177591&extension=ts&play_token=vPwC7WxTsz
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/RSI_La_1_2012.svg.png" group-title="Svizzera",┃IT┃ RSI LA 2 FHD
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=177592&extension=ts&play_token=FhAmQSk93N
 
 #EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1 (stream mdp)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
@@ -3855,12 +3859,14 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Sportitalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Sportitalia
+#EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Primavera TV
 https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SportItalia Solocalcio" tvg-name="SportItalia Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20230412T042559SQUARE.png_20230412042559.png" group-title="SPORT",SportItalia Solocalcio
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Sportitalia_logo.png" group-title="SPORT",PRIMAVERA TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=228914&extension=ts&play_token=8o1roIoTNU
 #EXTINF:-1 tvg-id="Solocalcio (SamsungTV)" tvg-name="Solocalcio (SamsungTV)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20230412T042559SQUARE.png_20230412042559.png" group-title="SPORT",Solocalcio (SamsungTV)
 https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS SPORTS GOLAZO NETWORK HD" tvg-name="CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",CBS SPORTS GOLAZO NETWORK HD
