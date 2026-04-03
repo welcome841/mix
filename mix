@@ -4605,8 +4605,9 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBC Alba (720p) [Geo-blocked]" tvg-name="BBC Alba (720p) [Geo-blocked]" tvg-logo="" group-title="ESTERO INGLESE",BBC Alba (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="=== ESTERO VARI ===" tvg-name="=== ESTERO VARI ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="ESTERO VARI",=== ESTERO VARI ===
-http://patbuweb.com/iptv/e2liste/startend.avi
+
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="ESTERO VARI",=== ESTERO VARI ===
+https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="TVE LA 1" tvg-name="TVE LA 1" tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="ESTERO VARI",TVE LA 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TVE LA 1" tvg-name="TVE LA 1" tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="ESTERO VARI",TVE LA 1
