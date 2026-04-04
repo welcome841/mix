@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="---LAST UPDATE 03-04-2026---" tvg-name="---LAST UPDATE 03-04-2026---" tvg-logo="" group-title="Fullmix",---LAST UPDATE 03-04-2026---
+#EXTINF:-1 tvg-id="---LAST UPDATE 04-04-2026---" tvg-name="---LAST UPDATE 03-04-2026---" tvg-logo="" group-title="Fullmix",---LAST UPDATE 03-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="RAI",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -45,11 +45,11 @@ https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay2/hls/playlist_mo.m3u8
 https://tivusto.org/sh/raiplay3
 #EXTINF:-1 tvg-id="RaiPlay 3 (link 2)" tvg-name="RaiPlay 3 (link 2)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/raiplay-1.png" group-title="RAI",RaiPlay 3 (link 2)
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8
-#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="RaiItalia.it" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="RAI",RaiItalia.it
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="RaiItalia.it" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="RAI",RaiItalia Sudafrica
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="RaiItalia.it" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="RAI",RaiItalia.it
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="RaiItalia.it" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="RAI",RaiItalia Sud America
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
-#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="RaiItalia.it" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="RAI",RaiItalia.it
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="RaiItalia.it" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="RAI",RaiItalia Australia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
 #EXTINF:-1 tvg-id="RAI World Premium" tvg-name="RAI World Premium" tvg-logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1687937411694-rai-world.png" group-title="RAI",RAI World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
@@ -87,7 +87,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Sport Mediaset" tvg-name="Sport Mediaset" tvg-logo="" group-title="Mediaset",Sport Mediaset
 https://live02-col.msf.cdn.mediaset.net/live/ch-b4/b4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Mediaset Italia" tvg-name="Mediaset Italia" tvg-logo="" group-title="Estero",Mediaset Italia
+#EXTINF:-1 tvg-id="Mediaset Italia" tvg-name="Mediaset Italia" tvg-logo="" group-title="Mediaset",Mediaset Italia
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-id="=== La 7 ===" tvg-name="=== La 7 ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="La 7",=== La 7 ===
 http://patbuweb.com/iptv/e2liste/startend.avi
@@ -181,6 +181,8 @@ https://netplus.zappr.stream/rsila2hd.m3u8
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=177591&extension=ts&play_token=vPwC7WxTsz
 #EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=177592&extension=ts&play_token=FhAmQSk93N
+#EXTINF:-1 tvg-id="swiss sport tv HD" tvg-name="swiss sport tv HD" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png" group-title="Svizzera",swiss sport tv HD
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
 #EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1 (stream mdp)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2 (stream mdp)
@@ -189,6 +191,8 @@ https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-id="RTS 2 (Stream 2)" tvg-name="RTS 2 (Stream 2)" tvg-logo="" group-title="Svizzera",RTS 2 (Stream 2)
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="Svizzera",RTS Info HD
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="Couleur 3 (720p)" tvg-name="Couleur 3 (720p)" tvg-logo="" group-title="Svizzera",Couleur 3 (720p)
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
 #EXTINF:-1 tvg-id="SRF1 (stream mdp)" tvg-name="SRF1 (stream mdp)" tvg-logo="" group-title="Svizzera",SRF1 (stream mdp)
@@ -261,6 +265,38 @@ https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 #EXTINF:-1 tvg-id="LA7 Italia" tvg-name="LA7 Italia" tvg-logo="" group-title="Estero",LA7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8"
+#EXTINF:-1 tvg-id="Rai 1 HD 720p" tvg-name="Rai 1 HD 720p" tvg-logo="" group-title="ESTERO",Rai 1 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 tvg-id="Rai 2 HD 720p" tvg-name="Rai 2 HD 720p" tvg-logo="" group-title="ESTERO",Rai 2 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 tvg-id="Rai 3 HD 720p" tvg-name="Rai 3 HD 720p" tvg-logo="" group-title="ESTERO",Rai 3 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 tvg-id="Rai Sport HD" tvg-name="Rai Sport HD" tvg-logo="" group-title="ESTERO",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1 tvg-id="Rai News24 HD" tvg-name="Rai News24 HD" tvg-logo="" group-title="ESTERO",Rai News24 HD
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+#EXTINF:-1 tvg-id="Rai Storia" tvg-name="Rai Storia" tvg-logo="" group-title="ESTERO",Rai Storia
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1 tvg-id="Rai Gulp HD 720p" tvg-name="Rai Gulp HD 720p" tvg-logo="" group-title="ESTERO",Rai Gulp HD 720p
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1 tvg-id="Rai Scuola HD 720p" tvg-name="Rai Scuola HD 720p" tvg-logo="" group-title="ESTERO",Rai Scuola HD 720p
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+#EXTINF:-1 tvg-id="canale5 HD 720p" tvg-name="canale5 HD 720p" tvg-logo="" group-title="ESTERO",canale5 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+#EXTINF:-1 tvg-id="Italia1 HD" tvg-name="Italia1 HD" tvg-logo="" group-title="ESTERO",Italia1 HD
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+#EXTINF:-1 tvg-id="Rete4 HD" tvg-name="Rete4 HD" tvg-logo="" group-title="ESTERO",Rete4 HD
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 tvg-id="LA7 HD 720p" tvg-name="LA7 HD 720p" tvg-logo="" group-title="ESTERO",LA7 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 tvg-id="LA7 CINEMA HD 720p" tvg-name="LA7 CINEMA HD 720p" tvg-logo="" group-title="ESTERO",LA7 CINEMA HD 720p
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 tvg-id="DMAX Italia HD 720p" tvg-name="DMAX Italia HD 720p" tvg-logo="" group-title="ESTERO",DMAX Italia HD 720p
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
+#EXTINF:-1 tvg-id="nove HD 720p" tvg-name="nove HD 720p" tvg-logo="" group-title="ESTERO",nove HD 720p
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 tvg-id="food network E HD" tvg-name="food network E HD" tvg-logo="" group-title="ESTERO",food network E HD
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8
 #EXTINF:-1 tvg-id="=== Altri Canali Nazionali ===" tvg-name="=== Altri Canali Nazionali ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Altri Canali Nazionali",=== Altri Canali Nazionali ===
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="7Italia" tvg-name="7Italia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/7italia.png" group-title="Altri Canali Nazionali",7Italia
@@ -3401,6 +3437,31 @@ https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="VIVA TV RUSSIA" tvg-name="VIVA TV RUSSIA" tvg-logo="http://viva-russia.ru/scheduler/epg/channel-logo.jpg" group-title="Musicali Esteri",VIVA TV RUSSIA
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 tvg-id="Now 70s" tvg-name="Now 70s" tvg-logo="https://i.postimg.cc/xdWDWzXr/now70s.png" group-title="Musicali Esteri",Now 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Now 80s" tvg-name="Now 80s" tvg-logo="https://i.postimg.cc/63nJwpZ8/now80s.png" group-title="Musicali Esteri",Now 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="NOW Rock" tvg-name="NOW Rock" tvg-logo="https://i.postimg.cc/gjHCXtNd/nowrock.png" group-title="Musicali Esteri",NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Totalmusic 2000s" tvg-name="Totalmusic 2000s" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Musicali Esteri",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TRACE URBAN HD" tvg-name="TRACE URBAN HD" tvg-logo="https://picserve.netplus.ch/channels/traceurban.png" group-title="Musicali Esteri",TRACE URBAN HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="TRACE LATINA HD" tvg-name="TRACE LATINA HD" tvg-logo="https://picserve.netplus.ch/channels/tracelatina.png" group-title="Musicali Esteri",TRACE LATINA HD
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo '70s & '80s" tvg-name="Vevo '70s & '80s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png" group-title="Musicali Esteri",Vevo '70s & '80s
+https://jmp2.uk/stvp-GBBD1900009UD
+#EXTINF:-1 tvg-id="Vevo '90s & '00s" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20250107T025831SQUARE.png" group-title="Musicali Esteri",Vevo '90s & '00s
+https://jmp2.uk/stvp-GBBC2100002HP
+#EXTINF:-1 tvg-id="Vevo Hip Hop & R&B" tvg-name="Vevo Hip Hop & R&B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png" group-title="Musicali Esteri",Vevo Hip Hop & R&B
+https://jmp2.uk/stvp-GBBD2300001C0
+#EXTINF:-1 tvg-id="Vevo Pop" tvg-name="Vevo Pop" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC19000017V_20250107T025833SQUARE.png" group-title="Musicali Esteri",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-id="STINGRAY iConcerts HD" tvg-name="STINGRAY iConcerts HD" tvg-logo="" group-title="Musicali Esteri",STINGRAY iConcerts HD
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+
 #EXTINF:-1 tvg-id="===Canali Musicali (Web Radio)===" tvg-name="===Canali Musicali (Web Radio)===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali Musicali (Web Radio)",===Canali Musicali (Web Radio)===
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="1Station TV" tvg-name="1Station TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/1station-tv.png" group-title="Canali Musicali (Web Radio)",1Station TV
@@ -3771,6 +3832,9 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="" group-title="News e Canali Istituzionali",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png" group-title="News e Canali Istituzionali",Sky TG24
+https://youtube.com/watch?v=HVB_Wx5T16g
+#EXTINF:-1 tvg-id="Rai News 24" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png" group-title="News e Canali Istituzionali",Rai News 24
 #EXTINF:-1 tvg-id="ADN Kronos" tvg-name="ADN Kronos" tvg-logo="http://odmsto.com/uploads/tv_image/sm/adn-kronos.png" group-title="News e Canali Istituzionali",ADN Kronos
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="http://odmsto.com/uploads/tv_image/sm/bloomberg.jpg" group-title="News e Canali Istituzionali",Bloomberg
@@ -4561,8 +4625,153 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_h
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="BBC Alba (720p) [Geo-blocked]" tvg-name="BBC Alba (720p) [Geo-blocked]" tvg-logo="" group-title="ESTERO INGLESE",BBC Alba (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.mpd
+
+
 #EXTINF:-1 tvg-id="=== ESTERO VARI ===" tvg-name="=== ESTERO VARI ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="ESTERO VARI",=== ESTERO VARI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-id="RTS 1 HD 1080p" tvg-name="RTS 1 HD 1080p" tvg-logo="" group-title="ESTERO VARI",RTS 1 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+#EXTINF:-1 tvg-id="RTS 2 HD 1080p" tvg-name="RTS 2 HD 1080p" tvg-logo="" group-title="ESTERO VARI",RTS 2 HD 1080p
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="ESTERO VARI",RTS Info HD
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-id="RTS Couleur3 TV" tvg-name="RTS Couleur3 TV" tvg-logo="" group-title="ESTERO VARI",RTS Couleur3 TV
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TF1 HD 720p" tvg-name="TF1 HD 720p" tvg-logo="" group-title="ESTERO VARI",TF1 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 tvg-id="France2 HD 720p" tvg-name="France2 HD 720p" tvg-logo="" group-title="ESTERO VARI",France2 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 tvg-id="France3 HD 720p" tvg-name="France3 HD 720p" tvg-logo="" group-title="ESTERO VARI",France3 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 tvg-id="France4 HD 720p" tvg-name="France4 HD 720p" tvg-logo="" group-title="ESTERO VARI",France4 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 tvg-id="France5 HD 720p" tvg-name="France5 HD 720p" tvg-logo="" group-title="ESTERO VARI",France5 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 tvg-id="M6 HD 720p" tvg-name="M6 HD 720p" tvg-logo="" group-title="ESTERO VARI",M6 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="Canal9 HD 720p" tvg-name="Canal9 HD 720p" tvg-logo="" group-title="ESTERO VARI",Canal9 HD 720p
+https://livehd.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+#EXTINF:-1 tvg-id="Léman bleu HD 720p" tvg-name="Léman bleu HD 720p" tvg-logo="" group-title="ESTERO VARI",Léman bleu HD 720p
+https://naxoo.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
+#EXTINF:-1 tvg-id="LA TELE HD 720p" tvg-name="LA TELE HD 720p" tvg-logo="" group-title="ESTERO VARI",LA TELE HD 720p
+https://latele2.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
+#EXTINF:-1 tvg-id="Canal Alpha JU HD 720p" tvg-name="Canal Alpha JU HD 720p" tvg-logo="" group-title="ESTERO VARI",Canal Alpha JU HD 720p
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/manifest.m3u8
+#EXTINF:-1 tvg-id="Canal Alpha NE HD 720p" tvg-name="Canal Alpha NE HD 720p" tvg-logo="" group-title="ESTERO VARI",Canal Alpha NE HD 720p
+https://canalalphane.vedge.infomaniak.com/livecast/ik:canalalphane/manifest.m3u8
+#EXTINF:-1 tvg-id="TMC HD 720p" tvg-name="TMC HD 720p" tvg-logo="" group-title="ESTERO VARI",TMC HD 720p
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="W9 HD 720p" tvg-name="W9 HD 720p" tvg-logo="" group-title="ESTERO VARI",W9 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 tvg-id="TFX HD 720p" tvg-name="TFX HD 720p" tvg-logo="" group-title="ESTERO VARI",TFX HD 720p
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 tvg-id="T18 HD 720p" tvg-name="T18 HD 720p" tvg-logo="" group-title="ESTERO VARI",T18 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+#EXTINF:-1 tvg-id="CSTAR HD 720p" tvg-name="CSTAR HD 720p" tvg-logo="" group-title="ESTERO VARI",CSTAR HD 720p
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+#EXTINF:-1 tvg-id="RTL9 HD 720p" tvg-name="RTL9 HD 720p" tvg-logo="" group-title="ESTERO VARI",RTL9 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+#EXTINF:-1 tvg-id="TF1 Series Films HD 720p" tvg-name="TF1 Series Films HD 720p" tvg-logo="" group-title="ESTERO VARI",TF1 Series Films HD 720p
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 tvg-id="6ter HD 720p" tvg-name="6ter HD 720p" tvg-logo="" group-title="ESTERO VARI",6ter HD 720p
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 tvg-id="RMC LIFE HD 720p" tvg-name="RMC LIFE HD 720p" tvg-logo="" group-title="ESTERO VARI",RMC LIFE HD 720p
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 tvg-id="RMC STORY HD 720p" tvg-name="RMC STORY HD 720p" tvg-logo="" group-title="ESTERO VARI",RMC STORY HD 720p
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 tvg-id="NOVO19 HD 720p" tvg-name="NOVO19 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/novo19.png" group-title="ESTERO VARI",NOVO19 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-id="blue zoom F HD 720p" tvg-name="blue zoom F HD 720p" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" group-title="ESTERO VARI",blue zoom F HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
+#EXTINF:-1 tvg-id="L'EQUIPE 720p" tvg-name="L'EQUIPE 720p" tvg-logo="" group-title="ESTERO VARI",L'EQUIPE 720p
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+#EXTINF:-1 tvg-id="AB1 720p" tvg-name="AB1 720p" tvg-logo="" group-title="ESTERO VARI",AB1 720p
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+#EXTINF:-1 tvg-id="AB3 720p" tvg-name="AB3 720p" tvg-logo="" group-title="ESTERO VARI",AB3 720p
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+#EXTINF:-1 tvg-id="TCM CINEMA F HD" tvg-name="TCM CINEMA F HD" tvg-logo="" group-title="ESTERO VARI",TCM CINEMA F HD
+https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
+#EXTINF:-1 tvg-id="CARTOON NETWORK 720p" tvg-name="CARTOON NETWORK 720p" tvg-logo="" group-title="ESTERO VARI",CARTOON NETWORK 720p
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="gulli 720p" tvg-name="gulli 720p" tvg-logo="" group-title="ESTERO VARI",gulli 720p
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 tvg-id="RMC DECOUVERTE HD 720p" tvg-name="RMC DECOUVERTE HD 720p" tvg-logo="" group-title="ESTERO VARI",RMC DECOUVERTE HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+#EXTINF:-1 tvg-id="PLANETE+ HD 720p" tvg-name="PLANETE+ HD 720p" tvg-logo="" group-title="ESTERO VARI",PLANETE+ HD 720p
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 tvg-id="ANIMAUX HD 720p" tvg-name="ANIMAUX HD 720p" tvg-logo="" group-title="ESTERO VARI",ANIMAUX HD 720p
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
+#EXTINF:-1 tvg-id="TREK HD 720p" tvg-name="TREK HD 720p" tvg-logo="" group-title="ESTERO VARI",TREK HD 720p
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-id="arte HD 720p" tvg-name="arte HD 720p" tvg-logo="" group-title="ESTERO VARI",arte HD 720p
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 tvg-id="BFM TV HD 720p" tvg-name="BFM TV HD 720p" tvg-logo="" group-title="ESTERO VARI",BFM TV HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+#EXTINF:-1 tvg-id="France24 HD 720p" tvg-name="France24 HD 720p" tvg-logo="" group-title="ESTERO VARI",France24 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
+#EXTINF:-1 tvg-id="euronews F HD 720p" tvg-name="euronews F HD 720p" tvg-logo="" group-title="ESTERO VARI",euronews F HD 720p
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 tvg-id="TV5 MONDE FBSM HD 720p" tvg-name="TV5 MONDE FBSM HD 720p" tvg-logo="" group-title="ESTERO VARI",TV5 MONDE FBSM HD 720p
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="CNEWS HD 720p" tvg-name="CNEWS HD 720p" tvg-logo="" group-title="ESTERO VARI",CNEWS HD 720p
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 tvg-id="LCI HD 720p" tvg-name="LCI HD 720p" tvg-logo="" group-title="ESTERO VARI",LCI HD 720p
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 tvg-id="BFM BUSINESS HD 720p" tvg-name="BFM BUSINESS HD 720p" tvg-logo="" group-title="ESTERO VARI",BFM BUSINESS HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
+#EXTINF:-1 tvg-id="LCP Public Senat HD 720p" tvg-name="LCP Public Senat HD 720p" tvg-logo="" group-title="ESTERO VARI",LCP Public Senat HD 720p
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+#EXTINF:-1 tvg-id="Franceinfo HD 720p" tvg-name="Franceinfo HD 720p" tvg-logo="" group-title="ESTERO VARI",Franceinfo HD 720p
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 tvg-id="mezzo HD 720p" tvg-name="mezzo HD 720p" tvg-logo="" group-title="ESTERO VARI",mezzo HD 720p
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+#EXTINF:-1 tvg-id="rhone tv HD" tvg-name="rhone tv HD" tvg-logo="" group-title="ESTERO VARI",rhone tv HD
+https://rhonetv.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
+#EXTINF:-1 tvg-id="MTV France HD 720p" tvg-name="MTV France HD 720p" tvg-logo="" group-title="ESTERO VARI",MTV France HD 720p
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 tvg-id="kto" tvg-name="kto" tvg-logo="" group-title="ESTERO VARI",kto
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1 tvg-id="Canal J HD" tvg-name="Canal J HD" tvg-logo="" group-title="ESTERO VARI",Canal J HD
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 tvg-id="canal+ en clair" tvg-name="canal+ en clair" tvg-logo="" group-title="ESTERO VARI",canal+ en clair
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+#EXTINF:-1 tvg-id="carac1 HD" tvg-name="carac1 HD" tvg-logo="" group-title="ESTERO VARI",carac1 HD
+https://rougetv.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+#EXTINF:-1 tvg-id="carac2 HD" tvg-name="carac2 HD" tvg-logo="" group-title="ESTERO VARI",carac2 HD
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="carac3 HD" tvg-name="carac3 HD" tvg-logo="" group-title="ESTERO VARI",carac3 HD
+https://lfmhd.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="carac4 HD" tvg-name="carac4 HD" tvg-logo="" group-title="ESTERO VARI",carac4 HD
+https://edge20.vedge.infomaniak.com/livecast/compack_media_1/manifest.m3u8
+#EXTINF:-1 tvg-id="carac5 HD" tvg-name="carac5 HD" tvg-logo="" group-title="ESTERO VARI",carac5 HD
+https://carac5.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="ESTERO VARI",One
+https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+#EXTINF:-1 tvg-id="Carac 1" tvg-name="Carac 1" tvg-logo="" group-title="ESTERO VARI",Carac 1
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1 tvg-id="Carac 2" tvg-name="Carac 2" tvg-logo="" group-title="ESTERO VARI",Carac 2
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1 tvg-id="Carac 3" tvg-name="Carac 3" tvg-logo="" group-title="ESTERO VARI",Carac 3
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Carac 4" tvg-name="Carac 4" tvg-logo="" group-title="ESTERO VARI",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Carac 5 (1080p)" tvg-name="Carac 5 (1080p)" tvg-logo="" group-title="ESTERO VARI",Carac 5 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+
+#EXTINF:-1 tvg-id="La Trois" tvg-name="La Trois" tvg-logo="" group-title="ESTERO VARI",La Trois
+http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
+#EXTINF:-1 tvg-id="La Une (1080p)" tvg-name="La Une (1080p)" tvg-logo="" group-title="ESTERO VARI",La Une (1080p)
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-id="nrtv HD 720p" tvg-name="nrtv HD 720p" tvg-logo="" group-title="ESTERO VARI",nrtv HD 720p
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
+#EXTINF:-1 tvg-id="DieuTV" tvg-name="DieuTV" tvg-logo="" group-title="ESTERO VARI",DieuTV
+https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
+#EXTINF:-1 tvg-id="tvm3 HD" tvg-name="tvm3 HD" tvg-logo="" group-title="ESTERO VARI",tvm3 HD
+https://tvm3.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+#EXTINF:-1 tvg-id="TVMONACO HD" tvg-name="TVMONACO HD" tvg-logo="" group-title="ESTERO VARI",TVMONACO HD
+https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
+#EXTINF:-1 tvg-id="val TV HD" tvg-name="val TV HD" tvg-logo="" group-title="ESTERO VARI",val TV HD
+https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
 #EXTINF:-1 tvg-id="TVE LA 1" tvg-name="TVE LA 1" tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="ESTERO VARI",TVE LA 1
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TVE LA 1" tvg-name="TVE LA 1" tvg-logo="https://i.ibb.co/VM5vGBV/la1.jpg" group-title="ESTERO VARI",TVE LA 1
@@ -4607,9 +4816,8 @@ https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="ESTERO VARI",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png" group-title="ESTERO VARI",Sky TG24
-https://youtube.com/watch?v=HVB_Wx5T16g
-#EXTINF:-1 tvg-id="Rai News 24" tvg-name="Rai News 24" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png" group-title="ESTERO VARI",Rai News 24
+#EXTINF:-1 tvg-id="SUR 1 ANDALUCÍA" tvg-name="SUR 1 ANDALUCÍA" tvg-logo="https://i.ibb.co/Qb7LPVN/andartv.png" group-title="ESTERO VARI",SUR 1 ANDALUCÍA
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 #EXTINF:-1 tvg-id="teleSUR" tvg-name="teleSUR" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png" group-title="ESTERO VARI",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -4625,94 +4833,165 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png" group-title="ESTERO VARI",RTP Internacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="ESTERO VARI",One
-https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac 1" tvg-name="Carac 1" tvg-logo="" group-title="ESTERO VARI",Carac 1
-https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
-#EXTINF:-1 tvg-id="Carac 2" tvg-name="Carac 2" tvg-logo="" group-title="ESTERO VARI",Carac 2
-https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 tvg-id="Carac 3" tvg-name="Carac 3" tvg-logo="" group-title="ESTERO VARI",Carac 3
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac 4" tvg-name="Carac 4" tvg-logo="" group-title="ESTERO VARI",Carac 4
-https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Carac 5 (1080p)" tvg-name="Carac 5 (1080p)" tvg-logo="" group-title="ESTERO VARI",Carac 5 (1080p)
-https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
-#EXTINF:-1 tvg-id="RTS 1 HD 1080p" tvg-name="RTS 1 HD 1080p" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png" group-title="ESTERO VARI",RTS 1 HD 1080p
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1 tvg-id="RTS 2 HD 1080p" tvg-name="RTS 2 HD 1080p" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png" group-title="ESTERO VARI",RTS 2 HD 1080p
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:-1 tvg-id="TF1 HD 720p" tvg-name="TF1 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png" group-title="ESTERO VARI",TF1 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
-#EXTINF:-1 tvg-id="France2 HD 720p" tvg-name="France2 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png" group-title="ESTERO VARI",France2 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
-#EXTINF:-1 tvg-id="France3 HD 720p" tvg-name="France3 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png" group-title="ESTERO VARI",France3 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
-#EXTINF:-1 tvg-id="France4 HD 720p" tvg-name="France4 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png" group-title="ESTERO VARI",France4 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
-#EXTINF:-1 tvg-id="France5 HD 720p" tvg-name="France5 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png" group-title="ESTERO VARI",France5 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
-#EXTINF:-1 tvg-id="M6 HD 720p" tvg-name="M6 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/m6hd.png" group-title="ESTERO VARI",M6 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
-#EXTINF:-1 tvg-id="TMC HD 720p" tvg-name="TMC HD 720p" tvg-logo="https://picserve.netplus.ch/channels/tmc.png" group-title="ESTERO VARI",TMC HD 720p
-https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
-#EXTINF:-1 tvg-id="W9 HD 720p" tvg-name="W9 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/w9.png" group-title="ESTERO VARI",W9 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
-#EXTINF:-1 tvg-id="TFX HD 720p" tvg-name="TFX HD 720p" tvg-logo="https://picserve.netplus.ch/channels/nt1.png" group-title="ESTERO VARI",TFX HD 720p
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
-#EXTINF:-1 tvg-id="CSTAR HD 720p" tvg-name="CSTAR HD 720p" tvg-logo="https://picserve.netplus.ch/channels/d17.png" group-title="ESTERO VARI",CSTAR HD 720p
-https://viamotionhsi.netplus.ch/live/eds/d17/browser-dash/d17.mpd
-#EXTINF:-1 tvg-id="T18 HD 720p" tvg-name="T18 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/t18.png" group-title="ESTERO VARI",T18 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
-#EXTINF:-1 tvg-id="NOVO19 HD 720p" tvg-name="NOVO19 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/novo19.png" group-title="ESTERO VARI",NOVO19 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/novo19/browser-dash/novo19.mpd
-#EXTINF:-1 tvg-id="RTL9 HD 720p" tvg-name="RTL9 HD 720p" tvg-logo="https://picserve.netplus.ch/channels/rtl9.png" group-title="ESTERO VARI",RTL9 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:-1 tvg-id="TF1 Series Films HD 720p" tvg-name="TF1 Series Films HD 720p" tvg-logo="https://picserve.netplus.ch/channels/hd1.png" group-title="ESTERO VARI",TF1 Series Films HD 720p
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
-#EXTINF:-1 tvg-id="6ter HD 720p" tvg-name="6ter HD 720p" tvg-logo="https://picserve.netplus.ch/channels/6ter.png" group-title="ESTERO VARI",6ter HD 720p
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
-#EXTINF:-1 tvg-id="RMC Life HD 720p" tvg-name="RMC Life HD 720p" tvg-logo="https://picserve.netplus.ch/channels/cherie25.png" group-title="ESTERO VARI",RMC Life HD 720p
-https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-dash/cherie25.mpd
-#EXTINF:-1 tvg-id="RMC STORY HD 720p" tvg-name="RMC STORY HD 720p" tvg-logo="https://picserve.netplus.ch/channels/numero23.png" group-title="ESTERO VARI",RMC STORY HD 720p
-https://viamotionhsi.netplus.ch/live/eds/numero23/browser-dash/numero23.mpd
-#EXTINF:-1 tvg-id="blue zoom F HD 720p" tvg-name="blue zoom F HD 720p" tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png" group-title="ESTERO VARI",blue zoom F HD 720p
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
-#EXTINF:-1 tvg-id="La chaine L'EQUIPE 720p" tvg-name="La chaine L'EQUIPE 720p" tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png" group-title="ESTERO VARI",La chaine L'EQUIPE 720p
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-dash/lequipe21.mpd
-#EXTINF:-1 tvg-id="AB1 720p" tvg-name="AB1 720p" tvg-logo="https://picserve.netplus.ch/channels/ab1.png" group-title="ESTERO VARI",AB1 720p
-https://viamotionhsi.netplus.ch/live/eds/ab1/browser-dash/ab1.mpd
-#EXTINF:-1 tvg-id="AB3 720p" tvg-name="AB3 720p" tvg-logo="https://picserve.netplus.ch/channels/ab3.png" group-title="ESTERO VARI",AB3 720p
-https://viamotionhsi.netplus.ch/live/eds/ab3/browser-dash/ab3.mpd
-#EXTINF:-1 tvg-id="paramount network F HD" tvg-name="paramount network F HD" tvg-logo="https://picserve.netplus.ch/channels/paramount.png" group-title="ESTERO VARI",paramount network F HD
-https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
-#EXTINF:-1 tvg-id="TCM CINEMA F HD" tvg-name="TCM CINEMA F HD" tvg-logo="https://picserve.netplus.ch/channels/tcm.png" group-title="ESTERO VARI",TCM CINEMA F HD
-https://viamotionhsi.netplus.ch/live/eds/tcm/browser-dash/tcm.mpd
-#EXTINF:-1 tvg-id="CARTOON NETWORK 720p" tvg-name="CARTOON NETWORK 720p" tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png" group-title="ESTERO VARI",CARTOON NETWORK 720p
-https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-dash/cartoonnetwork.mpd
-#EXTINF:-1 tvg-id="gulli 720p" tvg-name="gulli 720p" tvg-logo="https://picserve.netplus.ch/channels/gulli.png" group-title="ESTERO VARI",gulli 720p
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
-#EXTINF:-1 tvg-id="G1 HD" tvg-name="G1 HD" tvg-logo="https://picserve.netplus.ch/channels/gameone.png" group-title="ESTERO VARI",G1 HD
-https://viamotionhsi.netplus.ch/live/eds/gameone/browser-dash/gameone.mpd
-#EXTINF:-1 tvg-id="RMC DECOUVERTE HD 720p" tvg-name="RMC DECOUVERTE HD 720p" tvg-logo="https://picserve.netplus.ch/channels/rmcdecouverte.png" group-title="ESTERO VARI",RMC DECOUVERTE HD 720p
-https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
-#EXTINF:-1 tvg-id="PLANETE+ HD 720p" tvg-name="PLANETE+ HD 720p" tvg-logo="https://picserve.netplus.ch/channels/planeteplus.png" group-title="ESTERO VARI",PLANETE+ HD 720p
-https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-dash/planeteplus.mpd
-#EXTINF:-1 tvg-id="ANIMAUX HD 720p" tvg-name="ANIMAUX HD 720p" tvg-logo="https://picserve.netplus.ch/channels/animaux.png" group-title="ESTERO VARI",ANIMAUX HD 720p
-https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
-#EXTINF:-1 tvg-id="La Trois" tvg-name="La Trois" tvg-logo="" group-title="ESTERO VARI",La Trois
-http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
-#EXTINF:-1 tvg-id="La Une (1080p)" tvg-name="La Une (1080p)" tvg-logo="" group-title="ESTERO VARI",La Une (1080p)
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
-#EXTINF:-1 tvg-id="SRF1 HD 720p" tvg-name="SRF1 HD 720p" tvg-logo="" group-title="ESTERO VARI",SRF1 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-dash/srf1hd.mpd
-#EXTINF:-1 tvg-id="SRF2 HD 720p" tvg-name="SRF2 HD 720p" tvg-logo="" group-title="ESTERO VARI",SRF2 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 tvg-id="SRF1 HD" tvg-name="SRF1 HD" tvg-logo="" group-title="ESTERO VARI",SRF1 HD
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+#EXTINF:-1 tvg-id="SRF2 HD" tvg-name="SRF2 HD" tvg-logo="" group-title="ESTERO VARI",SRF2 HD
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-id="SRF info HD 720p" tvg-name="SRF info HD 720p" tvg-logo="" group-title="ESTERO VARI",SRF info HD 720p
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+#EXTINF:-1 tvg-id="ARD Das Erste  HD" tvg-name="ARD Das Erste  HD" tvg-logo="https://picserve.netplus.ch/channels/daserste.png" group-title="ESTERO VARI",ARD Das Erste  HD
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+#EXTINF:-1 tvg-id="ZDF HD 720p" tvg-name="ZDF HD 720p" tvg-logo="" group-title="ESTERO VARI",ZDF HD 720p
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 #EXTINF:-1 tvg-id="ORF1 HD 720p" tvg-name="ORF1 HD 720p" tvg-logo="" group-title="ESTERO VARI",ORF1 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
 #EXTINF:-1 tvg-id="ORF2 HD 720p" tvg-name="ORF2 HD 720p" tvg-logo="" group-title="ESTERO VARI",ORF2 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+#EXTINF:-1 tvg-id="ORF III" tvg-name="ORF III" tvg-logo="" group-title="ESTERO VARI",ORF III
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="" group-title="ESTERO VARI",RTL
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 tvg-id="RTLZWEI" tvg-name="RTLZWEI" tvg-logo="" group-title="ESTERO VARI",RTLZWEI
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 tvg-id="RTL SUPER" tvg-name="RTL SUPER" tvg-logo="" group-title="ESTERO VARI",RTL SUPER
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+#EXTINF:-1 tvg-id="nitro." tvg-name="nitro." tvg-logo="" group-title="ESTERO VARI",nitro.
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 tvg-id="Pro Sieben" tvg-name="Pro Sieben" tvg-logo="" group-title="ESTERO VARI",Pro Sieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="SAT.1 HD" tvg-name="SAT.1 HD" tvg-logo="" group-title="ESTERO VARI",SAT.1 HD
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=" Kabel Eins" tvg-name=" Kabel Eins" tvg-logo="" group-title="ESTERO VARI", Kabel Eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id=" 3sat HD" tvg-name=" 3sat HD" tvg-logo="" group-title="ESTERO VARI", 3sat HD
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-id=" SWR HD" tvg-name=" SWR HD" tvg-logo="" group-title="ESTERO VARI", SWR HD
+https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+#EXTINF:-1 tvg-id="KIKA HD" tvg-name="KIKA HD" tvg-logo="" group-title="ESTERO VARI",KIKA HD
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
+#EXTINF:-1 tvg-id="sport1" tvg-name="sport1" tvg-logo="" group-title="ESTERO VARI",sport1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+#EXTINF:-1 tvg-id="eurosport1 D" tvg-name="eurosport1 D" tvg-logo="" group-title="ESTERO VARI",eurosport1 D
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+#EXTINF:-1 tvg-id="blue zoom D HD 720p" tvg-name="blue zoom D HD 720p" tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png" group-title="ESTERO VARI",blue zoom D HD 720p
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+#EXTINF:-1 tvg-id="kanal9 HD 720p" tvg-name="kanal9 HD 720p" tvg-logo="" group-title="ESTERO VARI",kanal9 HD 720p
+https://livesd2.vedge.infomaniak.com/livecast/ik:livesd2/manifest.m3u8
+#EXTINF:-1 tvg-id="Tele Baern HD" tvg-name="Tele Baern HD" tvg-logo="" group-title="ESTERO VARI",Tele Baern HD
+https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
+#EXTINF:-1 tvg-id="Tele Bielingue HD" tvg-name="Tele Bielingue HD" tvg-logo="" group-title="ESTERO VARI",Tele Bielingue HD
+https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
+#EXTINF:-1 tvg-id="tv24 HD" tvg-name="tv24 HD" tvg-logo="" group-title="ESTERO VARI",tv24 HD
+https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
+
+#EXTINF:-1 tvg-id="BBC ONE HD ?" tvg-name="BBC ONE HD ?" tvg-logo="" group-title="ESTERO VARI",BBC ONE HD ?
+https://viamotionhsi.netplus.ch/live/eds/bbc/browser-HLS8/bbc.m3u8
+#EXTINF:-1 tvg-id="BBC TWO HD" tvg-name="BBC TWO HD" tvg-logo="" group-title="ESTERO VARI",BBC TWO HD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 tvg-id="BBC CBBC HD" tvg-name="BBC CBBC HD" tvg-logo="" group-title="ESTERO VARI",BBC CBBC HD
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id="BBC CBeebies HD" tvg-name="BBC CBeebies HD" tvg-logo="" group-title="ESTERO VARI",BBC CBeebies HD
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-id="BBC NEWS (EUROPE) HD" tvg-name="BBC NEWS (EUROPE) HD" tvg-logo="" group-title="ESTERO VARI",BBC NEWS (EUROPE) HD
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="itv1 HD ?" tvg-name="itv1 HD ?" tvg-logo="" group-title="ESTERO VARI",itv1 HD ?
+https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8
+#EXTINF:-1 tvg-id="itv2 HD" tvg-name="itv2 HD" tvg-logo="" group-title="ESTERO VARI",itv2 HD
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:-1 tvg-id="itv3 HD" tvg-name="itv3 HD" tvg-logo="" group-title="ESTERO VARI",itv3 HD
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-id="itv4 HD" tvg-name="itv4 HD" tvg-logo="" group-title="ESTERO VARI",itv4 HD
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 tvg-id="channel4 HD" tvg-name="channel4 HD" tvg-logo="" group-title="ESTERO VARI",channel4 HD
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-id="channel5 HD" tvg-name="channel5 HD" tvg-logo="" group-title="ESTERO VARI",channel5 HD
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-id="sky news" tvg-name="sky news" tvg-logo="" group-title="ESTERO VARI",sky news
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+#EXTINF:-1 tvg-id="cnn europe HD" tvg-name="cnn europe HD" tvg-logo="" group-title="ESTERO VARI",cnn europe HD
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+#EXTINF:-1 tvg-id=" Al Jazeera HD" tvg-name=" Al Jazeera HD" tvg-logo="" group-title="ESTERO VARI", Al Jazeera HD
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+#EXTINF:-1 tvg-id=" CNBC 720p" tvg-name=" CNBC 720p" tvg-logo="" group-title="ESTERO VARI", CNBC 720p
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 tvg-id="bloomberg HD" tvg-name="bloomberg HD" tvg-logo="" group-title="ESTERO VARI",bloomberg HD
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTINF:-1 tvg-id="fashiontv HD" tvg-name="fashiontv HD" tvg-logo="" group-title="ESTERO VARI",fashiontv HD
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-id="FILM4" tvg-name="FILM4" tvg-logo="" group-title="ESTERO VARI",FILM4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-id="More4" tvg-name="More4" tvg-logo="" group-title="ESTERO VARI",More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:-1 tvg-id="RTPi" tvg-name="RTPi" tvg-logo="" group-title="ESTERO VARI",RTPi
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+#EXTINF:-1 tvg-id="Rede Record internacional HD" tvg-name="Rede Record internacional HD" tvg-logo="" group-title="ESTERO VARI",Rede Record internacional HD
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1 tvg-id="tve internacional HD" tvg-name="tve internacional HD" tvg-logo="" group-title="ESTERO VARI",tve internacional HD
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
+#EXTINF:-1 tvg-id="24h HD" tvg-name="24h HD" tvg-logo="" group-title="ESTERO VARI",24h HD
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-id="Aragon TV HD" tvg-name="Aragon TV HD" tvg-logo="" group-title="ESTERO VARI",Aragon TV HD
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 tvg-id="star HD" tvg-name="star HD" tvg-logo="https://picserve.netplus.ch/channels/starhd.png" group-title="ESTERO VARI",star HD
+https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
+#EXTINF:-1 tvg-id="bvn" tvg-name="bvn" tvg-logo="https://picserve.netplus.ch/channels/bvn.png" group-title="ESTERO VARI",bvn
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+#EXTINF:-1 tvg-id="rtk1" tvg-name="rtk1" tvg-logo="https://picserve.netplus.ch/channels/rtk1.png" group-title="ESTERO VARI",rtk1
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1 tvg-id="MNE HD" tvg-name="MNE HD" tvg-logo="" group-title="ESTERO VARI",MNE HD
+https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
+#EXTINF:-1 tvg-id="TRT TURK HD" tvg-name="TRT TURK HD" tvg-logo="" group-title="ESTERO VARI",TRT TURK HD
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
+#EXTINF:-1 tvg-id="cctv4 HD" tvg-name="cctv4 HD" tvg-logo="" group-title="ESTERO VARI",cctv4 HD
+https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+#EXTINF:-1 tvg-id="Record news" tvg-name="Record news" tvg-logo="" group-title="ESTERO VARI",Record news
+https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
+#EXTINF:-1 tvg-id="TVRi" tvg-name="TVRi" tvg-logo="" group-title="ESTERO VARI",TVRi
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
+#EXTINF:-1 tvg-id=" Al Maghribia HD" tvg-name=" Al Maghribia HD" tvg-logo="" group-title="ESTERO VARI", Al Maghribia HD
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 tvg-id="sixx HD" tvg-name="sixx HD" tvg-logo="" group-title="ESTERO VARI",sixx HD
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="BR HD" tvg-name="BR HD" tvg-logo="" group-title="ESTERO VARI",BR HD
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTINF:-1 tvg-id="WDR HD" tvg-name="WDR HD" tvg-logo="" group-title="ESTERO VARI",WDR HD
+https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
+#EXTINF:-1 tvg-id="hr HD" tvg-name="hr HD" tvg-logo="" group-title="ESTERO VARI",hr HD
+https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
+#EXTINF:-1 tvg-id="mdr HD" tvg-name="mdr HD" tvg-logo="" group-title="ESTERO VARI",mdr HD
+https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
+#EXTINF:-1 tvg-id="zdf neo HD" tvg-name="zdf neo HD" tvg-logo="" group-title="ESTERO VARI",zdf neo HD
+https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
+#EXTINF:-1 tvg-id="zdf info HD" tvg-name="zdf info HD" tvg-logo="" group-title="ESTERO VARI",zdf info HD
+https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+#EXTINF:-1 tvg-id="SAT.1 GOLD HD" tvg-name="SAT.1 GOLD HD" tvg-logo="" group-title="ESTERO VARI",SAT.1 GOLD HD
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="WeLT" tvg-name="WeLT" tvg-logo="" group-title="ESTERO VARI",WeLT
+https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="" group-title="ESTERO VARI",ntv
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 tvg-id="phoenix HD" tvg-name="phoenix HD" tvg-logo="" group-title="ESTERO VARI",phoenix HD
+https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+#EXTINF:-1 tvg-id="kabel eins DOKU" tvg-name="kabel eins DOKU" tvg-logo="" group-title="ESTERO VARI",kabel eins DOKU
+https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku.m3u8
+#EXTINF:-1 tvg-id="puls acht ?" tvg-name="puls acht ?" tvg-logo="" group-title="ESTERO VARI",puls acht ?
+https://viamotionhsi.netplus.ch/live/eds/pulsacht/browser-HLS8/pulsacht.m3u8
+#EXTINF:-1 tvg-id="comedy central D HD" tvg-name="comedy central D HD" tvg-logo="" group-title="ESTERO VARI",comedy central D HD
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 tvg-id="comedy central+1 D" tvg-name="comedy central+1 D" tvg-logo="" group-title="ESTERO VARI",comedy central+1 D
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1 tvg-id="7MAXX ?" tvg-name="7MAXX ?" tvg-logo="" group-title="ESTERO VARI",7MAXX ?
+https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
+#EXTINF:-1 tvg-id="DMAX CH" tvg-name="DMAX CH" tvg-logo="" group-title="ESTERO VARI",DMAX CH
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
+#EXTINF:-1 tvg-id="tele5 D" tvg-name="tele5 D" tvg-logo="" group-title="ESTERO VARI",tele5 D
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD alpha" tvg-logo="" group-title="ESTERO VARI",ARD alpha
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
+#EXTINF:-1 tvg-id="DELUXE MUSIC HD" tvg-name="DELUXE MUSIC HD" tvg-logo="" group-title="ESTERO VARI",DELUXE MUSIC HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="rbb HD" tvg-name="rbb HD" tvg-logo="" group-title="ESTERO VARI",rbb HD
+https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
 #EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF 1" tvg-logo="" group-title="ESTERO VARI",ORF 1
 https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="" group-title="ESTERO VARI",ORF 2
@@ -4721,32 +5000,195 @@ https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="DAS ERSTE DE" tvg-name="DAS ERSTE DE" tvg-logo="https://i.ibb.co/GcZR4DM/daserste.png" group-title="ESTERO VARI",DAS ERSTE DE
 http://daserstedash.akamaized.net/dash/live/2103597/daserste/dvbt2/manifest.mpd
-#EXTINF:-1 tvg-id="ZDF HD 720p" tvg-name="ZDF HD 720p" tvg-logo="" group-title="ESTERO VARI",ZDF HD 720p
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="" group-title="ESTERO VARI",RTL
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
-#EXTINF:-1 tvg-id="RTLZWEI" tvg-name="RTLZWEI" tvg-logo="" group-title="ESTERO VARI",RTLZWEI
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
-#EXTINF:-1 tvg-id=" 3sat HD" tvg-name=" 3sat HD" tvg-logo="" group-title="ESTERO VARI", 3sat HD
-https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
-#EXTINF:-1 tvg-id=" SWR HD" tvg-name=" SWR HD" tvg-logo="" group-title="ESTERO VARI", SWR HD
-https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-dash/swrbw.mpd
-#EXTINF:-1 tvg-id="RTL SUPER" tvg-name="RTL SUPER" tvg-logo="" group-title="ESTERO VARI",RTL SUPER
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
-#EXTINF:-1 tvg-id="tele5 D" tvg-name="tele5 D" tvg-logo="" group-title="ESTERO VARI",tele5 D
-https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
 #EXTINF:-1 tvg-id="kabel eins" tvg-name="kabel eins" tvg-logo="" group-title="ESTERO VARI",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ProSieben (1080p)" tvg-name="ProSieben (1080p)" tvg-logo="" group-title="ESTERO VARI",ProSieben (1080p)
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVP POLONIA HD" tvg-name="TVP POLONIA HD" tvg-logo="" group-title="ESTERO VARI",TVP POLONIA HD
+https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
 #EXTINF:-1 tvg-id="VOX" tvg-name="VOX" tvg-logo="" group-title="ESTERO VARI",VOX
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:-1 tvg-id="KIKA HD" tvg-name="KIKA HD" tvg-logo="" group-title="ESTERO VARI",KIKA HD
-https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-dash/kikahd.mpd
-#EXTINF:-1 tvg-id="sport1" tvg-name="sport1" tvg-logo="" group-title="ESTERO VARI",sport1
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
-#EXTINF:-1 tvg-id="eurosport1 D" tvg-name="eurosport1 D" tvg-logo="" group-title="ESTERO VARI",eurosport1 D
-https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mpd
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 tvg-id="atv HD" tvg-name="atv HD" tvg-logo="" group-title="ESTERO VARI",atv HD
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+#EXTINF:-1 tvg-id="atv2 HD" tvg-name="atv2 HD" tvg-logo="" group-title="ESTERO VARI",atv2 HD
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
+#EXTINF:-1 tvg-id="ARD one HD" tvg-name="ARD one HD" tvg-logo="https://picserve.netplus.ch/channels/onehd.png" group-title="ESTERO VARI",ARD one HD
+https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
+#EXTINF:-1 tvg-id="DUNA HD" tvg-name="DUNA HD" tvg-logo="" group-title="ESTERO VARI",DUNA HD
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
+#EXTINF:-1 tvg-id="EUROD HD" tvg-name="EUROD HD" tvg-logo="" group-title="ESTERO VARI",EUROD HD
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+#EXTINF:-1 tvg-id="DMSAT" tvg-name="DMSAT" tvg-logo="" group-title="ESTERO VARI",DMSAT
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
+#EXTINF:-1 tvg-id="TVCNEWS" tvg-name="TVCNEWS" tvg-logo="" group-title="ESTERO VARI",TVCNEWS
+https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+#EXTINF:-1 tvg-id="Disney Channel D" tvg-name="Disney Channel D" tvg-logo="" group-title="ESTERO VARI",Disney Channel D
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+#EXTINF:-1 tvg-id="ServusTV HD" tvg-name="ServusTV HD" tvg-logo="" group-title="ESTERO VARI",ServusTV HD
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:-1 tvg-id="Anixe HD" tvg-name="Anixe HD" tvg-logo="" group-title="ESTERO VARI",Anixe HD
+https://viamotionhsi.netplus.ch/live/eds/anixe/browser-HLS8/anixe.m3u8
+#EXTINF:-1 tvg-id="RiC D" tvg-name="RiC D" tvg-logo="" group-title="ESTERO VARI",RiC D
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
+#EXTINF:-1 tvg-id="startv D HD" tvg-name="startv D HD" tvg-logo="" group-title="ESTERO VARI",startv D HD
+https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
+
+#EXTINF:-1 tvg-id="NHK WORLD JAPAN HD" tvg-name="NHK WORLD JAPAN HD" tvg-logo="" group-title="ESTERO VARI",NHK WORLD JAPAN HD
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 tvg-id="show turk HD" tvg-name="show turk HD" tvg-logo="" group-title="ESTERO VARI",show turk HD
+https://viamotionhsi.netplus.ch/live/eds/showturk/browser-HLS8/showturk.m3u8
+#EXTINF:-1 tvg-id="PTC CBET HD 720p" tvg-name="PTC CBET HD 720p" tvg-logo="" group-title="ESTERO VARI",PTC CBET HD 720p
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
+#EXTINF:-1 tvg-id="BNT4 HD" tvg-name="BNT4 HD" tvg-logo="https://picserve.netplus.ch/channels/bntworld.png" group-title="ESTERO VARI",BNT4 HD
+https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
+#EXTINF:-1 tvg-id="Africa24 HD" tvg-name="Africa24 HD" tvg-logo="https://picserve.netplus.ch/channels/africa24.png" group-title="ESTERO VARI",Africa24 HD
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="Africa24 Sport HD" tvg-name="Africa24 Sport HD" tvg-logo="https://picserve.netplus.ch/channels/africa24sport.png" group-title="ESTERO VARI",Africa24 Sport HD
+https://africa24sport.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="africanews. HD" tvg-name="africanews. HD" tvg-logo="https://picserve.netplus.ch/channels/africanews.png" group-title="ESTERO VARI",africanews. HD
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE France Belgique Suisse Monaco (1080i) [Geo-blocked]" tvg-name="TV5MONDE France Belgique Suisse Monaco (1080i) [Geo-blocked]" tvg-logo="" group-title="ESTERO VARI",TV5MONDE France Belgique Suisse Monaco (1080i) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE Info (1080p) [Geo-blocked]" tvg-name="TV5MONDE Info (1080p) [Geo-blocked]" tvg-logo="https://picserve.netplus.ch/channels/tv5mondeinfo.png" group-title="ESTERO VARI",TV5MONDE Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5 Monde Voyage" tvg-name="TV5 Monde Voyage" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800004EP_20251013T054046SQUARE.png" group-title="ESTERO VARI",TV5 Monde Voyage
+https://jmp2.uk/stvp-FR1800004EP
+#EXTINF:-1 tvg-id="Voyages+ FHD" tvg-name="Voyages+ FHD" tvg-logo="" group-title="ESTERO VARI",Voyages+ FHD
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/07e41745-4900-4d3e-ba9e-526a6e821bdf/1ea1f2e1-1299-4db2-be2f-3c76a446f085/2.m3u8
+#EXTINF:-1 tvg-id="The Explorers HD" tvg-name="The Explorers HD" tvg-logo="" group-title="ESTERO VARI",The Explorers HD
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d7b8d2d2-30c5-4362-8735-ac91f9e17134/458be94d-45ec-44e7-a92b-eca318c910c6/2.m3u8
+#EXTINF:-1 tvg-id="RT Russia Today en français HD" tvg-name="RT Russia Today en français HD" tvg-logo="" group-title="ESTERO VARI",RT Russia Today en français HD
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:-1 tvg-id="travelxp HD" tvg-name="travelxp HD" tvg-logo="" group-title="ESTERO VARI",travelxp HD
+https://fe20728b6ed6465bbedc63d22e4d3198.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Netgem-eu_TravelXPFR/playlist.m3u8
+#EXTINF:-1 tvg-id="Wellbeing TV HD" tvg-name="Wellbeing TV HD" tvg-logo="" group-title="ESTERO VARI",Wellbeing TV HD
+https://amg01736-harmonysecomgro-myzentv-netgemuk-5yjaw.amagi.tv/ts-eu-w1-n2/playlist/amg01736-harmonysecomgro-myzentv-netgemuk/cb573d1a7f6c67909bcb3978d1f24682967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244dc6cbfb102488b2f57f383459fd74eed81dd469746d773ec159cc4f096824682878c30f851b2305c5d752ac0d57bc9be37c6db9e7a779b7538542156e9ad80fb4028f424293da8a5a4d50dfe17ddc722857025c963f22ed56aff01c408a3f200b5be84cf50482fa5c7421344ca84f0d0bc5f5dbc62e8ece8cd63439be31a7c4bcc1fad48583b9ff0851a81d71293bb6d8bb17d1a3dcd8553c1e6d8efeeb49e049d35daf8fa9930473c086e6ba858b69d68d669e94ef2be79485d4957e3995ad496d82c53082ed6da0ebe621abdc8c582cf1e04d9741448ed5fcc49091eb75e1574f139e9896623c6311d927b33fe4c32854fb2bb23bbb2d0aa5c50dfbac046ef7d9dd660b3a758da07505e06a3e0135c4a426ed5e0727f5313a215be82a086760d13a2f3c4fab21552433d40510f89e7b429d6db90784f5b940b7e62391247c2569b3c8d5419517b9a48d7ad5922df774b47f3b4004d486580c9b298f5b5a025e525bda59a382b281767b327774504b2e6bf46974e239cbb9fe175066095453171fd9cddff9c9262cf9260d849087646f080dbc5943009052f8e8267c75b98fc75794a083dbe87aa00408b3fab041edca4b48f3a2fe0b52d3cbfd03e2a689bdc33cd663fc95db241ec80258ce00745746e317cf0c99416a79effe3dcc8d5006ba57e5ea0159e89f1bcc66319dd84583a30016fb01e386b0103a2d3d9680134b9f277a615d1e25bad4d43207f69eac2510ec8b82c5cab3c7036f1fb8b93fb9e4a50eb7ee479cc5706a47c043aae996bbdcde1a5bacf447c34f49ae70cb7a883848cf1cf2575042570b8c94d5a7add69a1d857affd532ca1d9cbd6db689667eb7aeed7e160b76ae0eeb809e1c1c9aeb527590e14078eb49d9023d2b20e4aac689b1c7d6afba4d0b434ab94ec7d378034cd8c047ca12d715bddd99229c128aae92a25e1931337f07035c4a0b2662bc12aa32f256eb3aaa56b28c4d7008347f8c4a356acedd3d633e13806125dd7f777510e94cc257cb6cec35b/149/1920x1080_4716800/index.m3u8
+#EXTINF:-1 tvg-id="Nautical Channel HD" tvg-name="Nautical Channel HD" tvg-logo="https://picserve.netplus.ch/channels/fast_nauticalchannel.png" group-title="ESTERO VARI",Nautical Channel HD
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e96d822-b975-494d-98c9-ced031fa5f83/21be0e92-f6ac-4bed-bc5f-51b707870ac7/2.m3u8
+#EXTINF:-1 tvg-id="AUTOMOTION FHD" tvg-name="AUTOMOTION FHD" tvg-logo="https://picserve.netplus.ch/channels/automotion.png" group-title="ESTERO VARI",AUTOMOTION FHD
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e00855a9-5ea6-44da-a1d2-ec86f3cc29bb/5895133d-1e54-4165-9a38-20aa207ff391/2.m3u8
+#EXTINF:-1 tvg-id="ADN Animation Digital Network HD" tvg-name="ADN Animation Digital Network HD" tvg-logo="" group-title="ESTERO VARI",ADN Animation Digital Network HD
+https://mtd-adn-netgem.otteravision.com/mtd/adn/adn_720p_high.m3u8
+#EXTINF:-1 tvg-id="CGTN news english" tvg-name="CGTN news english" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png" group-title="ESTERO VARI",CGTN news english
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 tvg-id="CGTN français" tvg-name="CGTN français" tvg-logo="https://picserve.netplus.ch/channels/cgtn.png" group-title="ESTERO VARI",CGTN français
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="Figaro TV HD" tvg-name="Figaro TV HD" tvg-logo="https://picserve.netplus.ch/channels/figarotv.png" group-title="ESTERO VARI",Figaro TV HD
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+#EXTINF:-1 tvg-id="Canal32 HD 1080p" tvg-name="Canal32 HD 1080p" tvg-logo="https://picserve.netplus.ch/channels/canal32.png" group-title="ESTERO VARI",Canal32 HD 1080p
+https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8
+#EXTINF:-1 tvg-id="wetter.tv HD" tvg-name="wetter.tv HD" tvg-logo="https://picserve.netplus.ch/channels/wetter.png" group-title="ESTERO VARI",wetter.tv HD
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TeleTop" tvg-name="TeleTop" tvg-logo="https://picserve.netplus.ch/channels/teletop.png" group-title="ESTERO VARI",TeleTop
+https://teletop.vedge.infomaniak.com/livecast/ik:teletop/manifest.m3u8
+#EXTINF:-1 tvg-id="TeleBasel HD" tvg-name="TeleBasel HD" tvg-logo="https://picserve.netplus.ch/channels/telebasel.png" group-title="ESTERO VARI",TeleBasel HD
+https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/manifest.m3u8
+#EXTINF:-1 tvg-id="BFMTV Alsace" tvg-name="BFMTV Alsace" tvg-logo="https://picserve.netplus.ch/channels/alsace20.png" group-title="ESTERO VARI",BFMTV Alsace
+https://live-cdn-bfmtvals-euw1.bfmtv.bct.nextradiotv.com/m2/media.m3u8
+#EXTINF:-1 tvg-id="Al24news HD" tvg-name="Al24news HD" tvg-logo="https://picserve.netplus.ch/channels/al24news.png" group-title="ESTERO VARI",Al24news HD
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="alpe d'huez tv HD" tvg-name="alpe d'huez tv HD" tvg-logo="https://picserve.netplus.ch/channels/alpe.png" group-title="ESTERO VARI",alpe d'huez tv HD
+https://adhtv.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+#EXTINF:-1 tvg-id="Equidia HD" tvg-name="Equidia HD" tvg-logo="https://picserve.netplus.ch/channels/equidia.png" group-title="ESTERO VARI",Equidia HD
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="FIFA+ HD" tvg-name="FIFA+ HD" tvg-logo="https://picserve.netplus.ch/channels/fifaplus.png" group-title="ESTERO VARI",FIFA+ HD
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Haiti News HD" tvg-name="Haiti News HD" tvg-logo="https://picserve.netplus.ch/channels/haitinewstv.png" group-title="ESTERO VARI",Haiti News HD
+https://haititivi.com/website/haitinews/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="DBMTV HD Digital Black Music HD" tvg-name="DBMTV HD Digital Black Music HD" tvg-logo="https://picserve.netplus.ch/channels/dbmtv.png" group-title="ESTERO VARI",DBMTV HD Digital Black Music HD
+http://dbmtv.vedge.infomaniak.com/livecast/ik:dbmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Generations TV HD" tvg-name="Generations TV HD" tvg-logo="https://picserve.netplus.ch/channels/generations.png" group-title="ESTERO VARI",Generations TV HD
+https://generation-tv.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="Ivoire channel" tvg-name="Ivoire channel" tvg-logo="https://picserve.netplus.ch/channels/ivoire.png" group-title="ESTERO VARI",Ivoire channel
+https://video1.getstreamhosting.com:1936/8244/8244/manifest.m3u8
+#EXTINF:-1 tvg-id="BB BLACK! HD" tvg-name="BB BLACK! HD" tvg-logo="https://picserve.netplus.ch/channels/bblack.png" group-title="ESTERO VARI",BB BLACK! HD
+https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-id="BB BLACK! Africa HD" tvg-name="BB BLACK! Africa HD" tvg-logo="https://picserve.netplus.ch/channels/bblackafrica.png" group-title="ESTERO VARI",BB BLACK! Africa HD
+https://bblackafrica.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1 tvg-id="BB BLACK! Caribbean HD" tvg-name="BB BLACK! Caribbean HD" tvg-logo="https://picserve.netplus.ch/channels/bblackcaribbean.png" group-title="ESTERO VARI",BB BLACK! Caribbean HD
+https://bblackcaribbean.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-id="BB BLACK! Classik HD" tvg-name="BB BLACK! Classik HD" tvg-logo="https://picserve.netplus.ch/channels/bblackclassik.png" group-title="ESTERO VARI",BB BLACK! Classik HD
+http://bblackclassik.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 tvg-id="MDL Monde Du Loisir TV HD" tvg-name="MDL Monde Du Loisir TV HD" tvg-logo="https://picserve.netplus.ch/channels/mondeduloisir.png" group-title="ESTERO VARI",MDL Monde Du Loisir TV HD
+https://5f5ef28097114.streamlock.net/tixtv/smil:web.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Trace Sport Stars HD" tvg-name="Trace Sport Stars HD" tvg-logo="https://picserve.netplus.ch/channels/tracesportstars.png" group-title="ESTERO VARI",Trace Sport Stars HD
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MGG ESport HD" tvg-name="MGG ESport HD" tvg-logo="https://picserve.netplus.ch/channels/mggesport.png" group-title="ESTERO VARI",MGG ESport HD
+https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+#EXTINF:-1 tvg-id="MotorVision F HD" tvg-name="MotorVision F HD" tvg-logo="https://picserve.netplus.ch/channels/motorvision.png" group-title="ESTERO VARI",MotorVision F HD
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+#EXTINF:-1 tvg-id="Frequence Novelas F HD" tvg-name="Frequence Novelas F HD" tvg-logo="https://picserve.netplus.ch/channels/frequencenovelas.png" group-title="ESTERO VARI",Frequence Novelas F HD
+https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="SCREAM IN F HD" tvg-name="SCREAM IN F HD" tvg-logo="https://picserve.netplus.ch/channels/screamin.png" group-title="ESTERO VARI",SCREAM IN F HD
+https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="BFM2. HD" tvg-name="BFM2. HD" tvg-logo="https://picserve.netplus.ch/channels/bfm2.png" group-title="ESTERO VARI",BFM2. HD
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8
+#EXTINF:-1 tvg-id="Vosges TV" tvg-name="Vosges TV" tvg-logo="https://i.postimg.cc/6qSJsv8k/vosgestv.png" group-title="ESTERO VARI",Vosges TV
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Les secrets de nos régions France" tvg-name="Les secrets de nos régions France" tvg-logo="https://picserve.netplus.ch/channels/fast_lessecretsdenosregions.png" group-title="ESTERO VARI",Les secrets de nos régions France
+https://amg02393-awpg-amg02393c6-rakuten-uk-2460.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg02393-awpg-lessecretsdenosregions-rakutenuk/cb7d3e4f7b706f8c9b983b6cd2f346a0d1526081563ad66167ab5e9327934953d4bcf590e71abe6a0fbd52a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05946c66cbfb10248854c14b1d30090cb19b887ca589853f322a60b9c96f395d30e82989171bd51b630515d7a7c9bcd7cc2980afb8bcb6f69d1297e1f4d18b3f1c1f81c6ed016115aada7f98b0f897b2c48e7e01a559828da24b727837fb00cb5ed4faea9c9ae28231c91b497e5bac29fc6afee273cad6381c2a3bd213ff1f26547bfe51834d00c18e9809313a0ca3ad69669e8917c0f37d0940aa188a08aecb8b7edfd4fd7eafb82344e42624b57c80de2d25ad227d977bfdd530f680d15fdd4059fc6ee573e341bddc046824752f9fa9b93d30b0ccf623053fc2f8c0852229f622c34ce05cdb71020c92a038e307ddc5d368b4db5f80ffdb5d4e80374e48a940caf21bffb5a92c503af6c2e504de6a17b11161a3df5ea6142612d900bb49d9aaf277b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c8e394f4d7d13059917d96fcb72202d27ca0cdcbf0672917c4f08e2a03a1d172ca1c1bf8588c1d906d25bd6dcf62d202b5302e4d36486de021cebddd314b3c5cdd69a841913574b9a2b48/9/1920x1080_4300000/index.m3u8
+#EXTINF:-1 tvg-id="QS24.tv HD" tvg-name="QS24.tv HD" tvg-logo="https://picserve.netplus.ch/channels/qs24.png" group-title="ESTERO VARI",QS24.tv HD
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Die Neue Zeit TV" tvg-name="Die Neue Zeit TV" tvg-logo="https://www.die-neue-zeit.tv/wp-content/uploads/dnz-logo-2.png" group-title="ESTERO VARI",Die Neue Zeit TV
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Fox LiveNOW" tvg-name="Fox LiveNOW" tvg-logo="" group-title="ESTERO VARI",Fox LiveNOW
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ACTION TOTALE ADRÉNALINE" tvg-name="ACTION TOTALE ADRÉNALINE" tvg-logo="https://i.ibb.co/8gYhv2YT/Acttotadr.png" group-title="ESTERO VARI",ACTION TOTALE ADRÉNALINE
+https://d34e8uj4fi4k3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-css3dozxusykg/live/fast-channel-100adrenaline-cfcb8564/fast-channel-100adrenaline-cfcb8564.m3u8
+#EXTINF:-1 tvg-id="PTV PUISSANCE TV" tvg-name="PTV PUISSANCE TV" tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png" group-title="ESTERO VARI",PTV PUISSANCE TV
+https://puissancetelevision.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+#EXTINF:-1 tvg-id="ETV GUADELOUPE" tvg-name="ETV GUADELOUPE" tvg-logo="https://i.ibb.co/CB78JpG/etvgp.png" group-title="ESTERO VARI",ETV GUADELOUPE
+https://etvgp.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+#EXTINF:-1 tvg-id="FUSION TV HD" tvg-name="FUSION TV HD" tvg-logo="https://i.ibb.co/Psz0Q4Zm/fusiontv.jpg" group-title="ESTERO VARI",FUSION TV HD
+https://fusiontv.vedge.infomaniak.com/livecast/ik:fusiontv/playlist.m3u8
+#EXTINF:-1 tvg-id="TÉLÉ PEYI GUYANE HD" tvg-name="TÉLÉ PEYI GUYANE HD" tvg-logo="https://i.ibb.co/SwvbkW2V/peyi.jpg" group-title="ESTERO VARI",TÉLÉ PEYI GUYANE HD
+https://33dm06.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
+#EXTINF:-1 tvg-id="CHADA TV HD" tvg-name="CHADA TV HD" tvg-logo="https://i.ibb.co/pdd2VqB/chada.jpg" group-title="ESTERO VARI",CHADA TV HD
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8
+#EXTINF:-1 tvg-id="AFRICA24 ENGLISH HD" tvg-name="AFRICA24 ENGLISH HD" tvg-logo="https://i.ibb.co/pdnMrZn/a24.png" group-title="ESTERO VARI",AFRICA24 ENGLISH HD
+https://africa24english.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="FUN RADIO TV BE HD" tvg-name="FUN RADIO TV BE HD" tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="Musicali Esteri",FUN RADIO TV BE HD
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+#EXTINF:-1 tvg-id="CLUBBING TV" tvg-name="CLUBBING TV" tvg-logo="https://freebox.cdn.scw.iliad.fr/274_8e77a87554.png" group-title="Musicali Esteri",CLUBBING TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-id="MATELE (1080i)" tvg-name="MATELE (1080i)" tvg-logo="" group-title="ESTERO VARI",MATELE (1080i)
+https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/chunklist.m3u8
+#EXTINF:-1 tvg-id="RIK SAT HD" tvg-name="RIK SAT HD" tvg-logo="" group-title="ESTERO VARI",RIK SAT HD
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="tagesschau24" tvg-logo="https://i.postimg.cc/kXTbWx1v/tagesschau24.png" group-title="ESTERO VARI",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="ORTB BJ" tvg-name="ORTB BJ" tvg-logo="https://static.epg.best/bj/ORTB.bj.png" group-title="ESTERO VARI",ORTB BJ
+https://srtblive.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="KALAC TV HD" tvg-name="KALAC TV HD" tvg-logo="" group-title="ESTERO VARI",KALAC TV HD
+https://kalactv.vedge.infomaniak.com/livecast/ik:kalactv/manifest.m3u8
+#EXTINF:-1 tvg-id="Musig24 Schweizer musik schlager" tvg-name="Musig24 Schweizer musik schlager" tvg-logo="" group-title="Musicali Esteri",Musig24 Schweizer musik schlager
+https://tv.musig24.tv/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="TVPolonia info HD" tvg-name="TVPolonia info HD" tvg-logo="" group-title="ESTERO VARI",TVPolonia info HD
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews. english HD" tvg-name="Euronews. english HD" tvg-logo="" group-title="ESTERO VARI",Euronews. english HD
+https://dash3.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="English Club TV" tvg-name="English Club TV" tvg-logo="" group-title="ESTERO VARI",English Club TV
+https://dash4.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="TVD TV Découverte" tvg-name="TVD TV Découverte" tvg-logo="" group-title="ESTERO VARI",TVD TV Découverte
+https://tvdecouverte.vedge.infomaniak.com/livecast/ik:tvdecouverte/manifest.m3u8
+#EXTINF:-1 tvg-id="RHT Radio Haute Tension Guadeloupe" tvg-name="RHT Radio Haute Tension Guadeloupe" tvg-logo="" group-title="ESTERO VARI",RHT Radio Haute Tension Guadeloupe
+https://livehautetension.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-id="Espace TV Ghana" tvg-name="Espace TV Ghana" tvg-logo="https://i.imgur.com/R5tbzFI.png" group-title="ESTERO VARI",Espace TV Ghana
+https://espacetv.vedge.infomaniak.com/livecast/ik:espacetv/manifest.m3u8
+#EXTINF:-1 tvg-id="Madras FM TV HD" tvg-name="Madras FM TV HD" tvg-logo="" group-title="ESTERO VARI",Madras FM TV HD
+https://madrasfmtv.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+#EXTINF:-1 tvg-id="DW English (1080p)" tvg-name="DW English (1080p)" tvg-logo="" group-title="ESTERO VARI",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="arte d HD 720p" tvg-name="arte d HD 720p" tvg-logo="" group-title="ESTERO VARI",arte d HD 720p
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="arirang korea HD 720p" tvg-name="arirang korea HD 720p" tvg-logo="" group-title="ESTERO VARI",arirang korea HD 720p
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1 tvg-id="ICI Television Québec HD" tvg-name="ICI Television Québec HD" tvg-logo="" group-title="ESTERO VARI",ICI Television Québec HD
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3MBPS.m3u8
+#EXTINF:-1 tvg-id="rtb3 HD" tvg-name="rtb3 HD" tvg-logo="rtb3.bf" group-title="ESTERO VARI",rtb3 HD
+https://rtb3-1.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
+
 #EXTINF:-1 tvg-id="=== TVPASS VPN USA ===" tvg-name="=== TVPASS VPN USA ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="TVPASS VPN USA",=== TVPASS VPN USA ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="A&E US Eastern Feed" tvg-name="A&E US Eastern Feed" tvg-logo="" group-title="TVPASS VPN USA",A&E US Eastern Feed
