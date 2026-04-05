@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="---LAST UPDATE 04-04-2026---" tvg-name="---LAST UPDATE 05-04-2026---" tvg-logo="" group-title="Fullmix",---LAST UPDATE 03-04-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 05-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="RAI",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
