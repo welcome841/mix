@@ -4257,6 +4257,14 @@ https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #EXTINF:-1 tvg-id="Teledeporte ES" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="SPORT",Teledeporte ES
 http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/854.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Futbol
+https://live.teleradiocom.tj/8/3m.m3u8
+
+
+
 #EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN FHD ARG
 http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71911.ts
 #EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN FHD [H265] ARG
