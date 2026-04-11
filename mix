@@ -3928,10 +3928,14 @@ https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
 https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS SPORTS GOLAZO NETWORK HD" tvg-name="CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",CBS SPORTS GOLAZO NETWORK HD
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 tvg-id="Golazo Network (Serie A)" tvg-name="Golazo Network (Serie A)" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D5FE2064-E664-4725-A0EC-BF43F6CF2A43/3-1x1.png" group-title="SPORT",Golazo Network (Serie A)
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 tvg-id="Golazo Network (Serie A)" tvg-name="Golazo Network (Serie A)" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D5FE2064-E664-4725-A0EC-BF43F6CF2A43/3-1x1.png" group-title="SPORT",Golazo Network (Serie A)
+https://watch.startecmedia.xyz:443/live/SeanK22/9Sz5cGPbTWhS/647956.ts
 #EXTINF:-1 tvg-id="CBS Sports Network USA SD" tvg-name="CBS Sports Network USA SD" tvg-logo="" group-title="SPORT",CBS Sports Network USA
 http://fortv.cc:8080/cynthia/castey/10454
 #EXTINF:-1 tvg-id="USA: CBS SPORTS NETWORK" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
-http://zerotwo.access.ly:2096/bama1/7908346251/815026
+http://fastream.xyz:8080/966618694tv/h8f8eg/24099
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://zerotwo.access.ly:2096/bama1/7908346251/761495
 #EXTINF:-1 tvg-id="CND TLN" tvg-name="CND TLN" tvg-logo="http://185.193.88.130:80/images/68e3cf855cf476bd88f3e8bc1e2ec86c.png" group-title="SPORT",CND TLN
@@ -4242,6 +4246,67 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 #EXTINF:-1 tvg-id="Teledeporte ES" tvg-name="Teledeporte ES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png" group-title="SPORT",Teledeporte ES
 http://juancs.streaminc.biz:8691/live/15236525885p99/mcqh9Njs/854.m3u8
+
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN FHD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71911.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN FHD [H265] ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71912.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN HD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71913.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN SD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71914.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 2 4K ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71921.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 2 FHD ARG 
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71919.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 2 FHD [H265] ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71920.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 2 HD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71922.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 2 SD ARG 
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71923.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 3 4K ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/103504.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 3 FHD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71907.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 3 FHD [H265] ARG 
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71908.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 3 HD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71909.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 3 SD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71910.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 4 4K ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71959.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 4 FHD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71957.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",,ESPN 4 FHD [H265] ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71958.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 4 HD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71960.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 4 SD ARG 
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71961.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 4K ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/90640.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 5 4K ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71954.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 5 FHD ARG 
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71952.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 5 [H265] ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71953.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 5 HD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71955.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 5 SD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71956.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 6 4K ARG 
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/103505.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 6 FHD ARG 
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71915.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 6 FHD [H265] ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71916.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 6 HD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71917.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 6 SD ARG
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71918.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="SPORT",PT: SPORT TV 1 FHD
 http://fortv.cc:8080/cynthia/castey/167742
