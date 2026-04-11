@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 05-04-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 11-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="RAI",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -177,12 +177,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2
 https://netplus.zappr.stream/rsila2hd.m3u8
-#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=177591&extension=ts&play_token=vPwC7WxTsz
-#EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=177592&extension=ts&play_token=FhAmQSk93N
-#EXTINF:-1 tvg-id="swiss sport tv HD" tvg-name="swiss sport tv HD" tvg-logo="https://picserve.netplus.ch/channels/swiss-sport.png" group-title="Svizzera",swiss sport tv HD
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/manifest.m3u8
+
 #EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1 (stream mdp)
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
 #EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2 (stream mdp)
@@ -683,6 +678,35 @@ https://5f22d76e220e1.streamlock.net/canale3/canale3/playlist.m3u8
 http://217.61.26.46:8080/hls/triveneta.m3u8
 #EXTINF:-1 tvg-id="Tva Vicenza" tvg-name="Tva Vicenza" tvg-logo="http://odmsto.com/uploads/tv_image/sm/tva-vicenza.png" group-title="Veneto",Tva Vicenza
 https://fms.telemar.it:1936/live/diretta_1/playlist.m3u8
+#EXTINF:-1 tvg-id="=== Friuli Venezia Giulia ===" tvg-name="=== Friuli Venezia Giulia ===" tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Friuli Venezia Giulia",=== Friuli Venezia Giulia ===
+https://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-id="Antenna Tre Nordest" tvg-name="Antenna Tre Nordest" tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-tre-nordest.png" group-title="Friuli Venezia Giulia",Antenna Tre Nordest
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Canale 6" tvg-name="Canale 6" tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-6-tvm.png" group-title="Friuli Venezia Giulia",Canale 6
+http://195.231.82.127:8082/hls/test_low.m3u8
+#EXTINF:-1 tvg-id="Canale 77" tvg-name="Canale 77" tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-77.png" group-title="Friuli Venezia Giulia",Canale 77
+https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Fly Tv Uk" tvg-name="Fly Tv Uk" tvg-logo="http://odmsto.com/uploads/tv_image/sm/fly-tv.jpg" group-title="Friuli Venezia Giulia",Fly Tv Uk
+https://tv2.radiosaiuz.com:3792/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="R.D.E. Tv ( Radio Diffusione Europea)" tvg-name="R.D.E. Tv ( Radio Diffusione Europea)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rde-tv-radio-diffusione-europea.JPG" group-title="Friuli Venezia Giulia",R.D.E. Tv ( Radio Diffusione Europea)
+https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
+#EXTINF:-1 tvg-id="Ran Friul" tvg-name="Ran Friul" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ran-friul.JPG" group-title="Friuli Venezia Giulia",Ran Friul
+https://5f22d76e220e1.streamlock.net/RanGem/RanGem/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperSix 24" tvg-name="SuperSix 24" tvg-logo="http://odmsto.com/uploads/tv_image/sm/supersix-24.png" group-title="Friuli Venezia Giulia",SuperSix 24
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 12 Medianordest" tvg-name="TV 12 Medianordest" tvg-logo="http://odmsto.com/uploads/tv_image/sm/udinews-tv.png" group-title="Friuli Venezia Giulia",TV 12 Medianordest
+https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
+#EXTINF:-1 tvg-id="TVM" tvg-name="TVM" tvg-logo="http://odmsto.com/uploads/tv_image/sm/tvm.JPG" group-title="Friuli Venezia Giulia",TVM
+http://195.231.82.127:8081/hls/test_low.m3u8
+#EXTINF:-1 tvg-id="TeleFriuli" tvg-name="TeleFriuli" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telefriuli.png" group-title="Friuli Venezia Giulia",TeleFriuli
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleQuattro" tvg-name="TeleQuattro" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telequattro.png" group-title="Friuli Venezia Giulia",TeleQuattro
+https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemare  Gorizia" tvg-name="Telemare  Gorizia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telemare-gorizia.JPG" group-title="Friuli Venezia Giulia",Telemare  Gorizia
+https://rst.latuatv.eu:3597/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Video Tele Carnia" tvg-name="Video Tele Carnia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/video-tele-carina.png" group-title="Friuli Venezia Giulia",Video Tele Carnia
+https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
+
 #EXTINF:-1 tvg-id="=== Valle D'Aosta ===" tvg-name="=== Valle D'Aosta ===" tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Valle D'Aosta",=== Valle D'Aosta ===
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Primantenna" tvg-name="Primantenna" tvg-logo="http://odmsto.com/uploads/tv_image/sm/primantenna-ce5jqdufak1a.png" group-title="Valle D'Aosta",Primantenna
@@ -783,34 +807,7 @@ http://api.new.livestream.com/accounts/701633/events/4147166/live.m3u8
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1 tvg-id="Videoregione" tvg-name="Videoregione" tvg-logo="http://odmsto.com/uploads/tv_image/sm/videoregione.jpg" group-title="Emilia Romagna",Videoregione
 https://stream.vr99.it/vr99.mp4?tkn=497649119
-#EXTINF:-1 tvg-id="=== Friuli Venezia Giulia ===" tvg-name="=== Friuli Venezia Giulia ===" tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Friuli Venezia Giulia",=== Friuli Venezia Giulia ===
-https://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-id="Antenna Tre Nordest" tvg-name="Antenna Tre Nordest" tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-tre-nordest.png" group-title="Friuli Venezia Giulia",Antenna Tre Nordest
-https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Canale 6" tvg-name="Canale 6" tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-6-tvm.png" group-title="Friuli Venezia Giulia",Canale 6
-http://195.231.82.127:8082/hls/test_low.m3u8
-#EXTINF:-1 tvg-id="Canale 77" tvg-name="Canale 77" tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-77.png" group-title="Friuli Venezia Giulia",Canale 77
-https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Fly Tv Uk" tvg-name="Fly Tv Uk" tvg-logo="http://odmsto.com/uploads/tv_image/sm/fly-tv.jpg" group-title="Friuli Venezia Giulia",Fly Tv Uk
-https://tv2.radiosaiuz.com:3792/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="R.D.E. Tv ( Radio Diffusione Europea)" tvg-name="R.D.E. Tv ( Radio Diffusione Europea)" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rde-tv-radio-diffusione-europea.JPG" group-title="Friuli Venezia Giulia",R.D.E. Tv ( Radio Diffusione Europea)
-https://rst2.saiuzwebnetwork.it:8081/prosol/index.m3u8
-#EXTINF:-1 tvg-id="Ran Friul" tvg-name="Ran Friul" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ran-friul.JPG" group-title="Friuli Venezia Giulia",Ran Friul
-https://5f22d76e220e1.streamlock.net/RanGem/RanGem/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperSix 24" tvg-name="SuperSix 24" tvg-logo="http://odmsto.com/uploads/tv_image/sm/supersix-24.png" group-title="Friuli Venezia Giulia",SuperSix 24
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-id="TV 12 Medianordest" tvg-name="TV 12 Medianordest" tvg-logo="http://odmsto.com/uploads/tv_image/sm/udinews-tv.png" group-title="Friuli Venezia Giulia",TV 12 Medianordest
-https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
-#EXTINF:-1 tvg-id="TVM" tvg-name="TVM" tvg-logo="http://odmsto.com/uploads/tv_image/sm/tvm.JPG" group-title="Friuli Venezia Giulia",TVM
-http://195.231.82.127:8081/hls/test_low.m3u8
-#EXTINF:-1 tvg-id="TeleFriuli" tvg-name="TeleFriuli" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telefriuli.png" group-title="Friuli Venezia Giulia",TeleFriuli
-https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleQuattro" tvg-name="TeleQuattro" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telequattro.png" group-title="Friuli Venezia Giulia",TeleQuattro
-https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemare  Gorizia" tvg-name="Telemare  Gorizia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telemare-gorizia.JPG" group-title="Friuli Venezia Giulia",Telemare  Gorizia
-https://rst.latuatv.eu:3597/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="Video Tele Carnia" tvg-name="Video Tele Carnia" tvg-logo="http://odmsto.com/uploads/tv_image/sm/video-tele-carina.png" group-title="Friuli Venezia Giulia",Video Tele Carnia
-https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
+
 #EXTINF:-1 tvg-id="=== Marche ===" tvg-name="=== Marche ===" tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Marche",=== Marche ===
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Arancia Television" tvg-name="Arancia Television" tvg-logo="http://odmsto.com/uploads/tv_image/sm/arancia-television.png" group-title="Marche",Arancia Television
@@ -3919,26 +3916,30 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Sportitalia
 https://edge-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Sportitalia
+#EXTINF:-1 tvg-id="Sportitalia" tvg-name="Primavera tv" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Primavera tv
 https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SportItalia Solocalcio" tvg-name="SportItalia Solocalcio" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20230412T042559SQUARE.png_20230412042559.png" group-title="SPORT",SportItalia Solocalcio
 https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBA2200010O1_20230412T042536SQUARE.png_20230412042536.png" group-title="SPORT",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-#EXTINF:-1 tvg-id="PRIMAVERA TV" tvg-name="PRIMAVERA TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Sportitalia_logo.png" group-title="SPORT",PRIMAVERA TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:4F:6C:42&stream=228914&extension=ts&play_token=8o1roIoTNU
+#EXTINF:-1 tvg-name="Primavera TV" tvg-id="sportitalia24live" tvg-logo="https://sportitaliadd.akamaized.net/video_0/Sportitalia/logo/11_logo_Untitled.jpg" tvg-chno="62"  group-title="SPORT",Primavera TV
+https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Solocalcio (SamsungTV)" tvg-name="Solocalcio (SamsungTV)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700002CO_20230412T042559SQUARE.png_20230412042559.png" group-title="SPORT",Solocalcio (SamsungTV)
 https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS SPORTS GOLAZO NETWORK HD" tvg-name="CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",CBS SPORTS GOLAZO NETWORK HD
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
-#EXTINF:-1 tvg-id="SPT| CBS SPORTS HD" tvg-name="SPT| CBS SPORTS HD" tvg-logo="http://103.176.90.118/picons/iptvlogos/CBS_SPORTS_HD.png" group-title="SPORT",SPT| CBS SPORTS HD
-http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=73468&extension=ts&play_token=OFCv5sVBuW
+#EXTINF:-1 tvg-id="CBS Sports Network USA SD" tvg-name="CBS Sports Network USA SD" tvg-logo="" group-title="SPORT",CBS Sports Network USA
+http://fortv.cc:8080/cynthia/castey/10454
 #EXTINF:-1 tvg-id="USA: CBS SPORTS NETWORK" tvg-name="USA: CBS SPORTS NETWORK" tvg-logo="https://puddintap.click/ico/USA/CBSSpNet.png" group-title="SPORT",USA: CBS SPORTS NETWORK
 http://zerotwo.access.ly:2096/bama1/7908346251/815026
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://zerotwo.access.ly:2096/bama1/7908346251/761495
-#EXTINF:-1 tvg-id="CND| TLN" tvg-name="CND| TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CND| TLN
-http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:55:82:8C&stream=1458846&extension=ts&play_token=J7OZoFvI7o
+#EXTINF:-1 tvg-id="CND TLN" tvg-name="CND TLN" tvg-logo="http://185.193.88.130:80/images/68e3cf855cf476bd88f3e8bc1e2ec86c.png" group-title="SPORT",CND TLN
+http://ky-tv.cc:80/Steve666/Steve666/1044577.ts
+#EXTINF:-1 tvg-id="CANADA: TLN" tvg-name="CANADA: TLN" tvg-logo="https://dencheetah.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2XXnOW8i4sc-vKP7h90JDfqlnWn-Ta_cgepraOVU1Le.png" group-title="SPORT",CANADA: TLN
+https://watch.startecmedia.xyz:443/live/SeanK22/9Sz5cGPbTWhS/662599.ts
+#EXTINF:-1 tvg-id="CBS Sports Network USA SD" tvg-name="CBS Sports Network USA SD" tvg-logo="" group-title="SPORT",CBS Sports Network USA
+http://fortv.cc:8080/cynthia/castey/10454
 #EXTINF:-1 tvg-id="Plus TV" tvg-name="Plus TV" tvg-logo="https://channels.zappr.stream/logos/plustvsport.png" group-title="SPORT",Plus TV
 https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="Plus TV Motori" tvg-name="Plus TV Motori" tvg-logo="https://channels.zappr.stream/logos/plustvmotori.png" group-title="SPORT",Plus TV Motori
@@ -4344,7 +4345,7 @@ http://zerotwo.access.ly:2096/bama1/7908346251/761495
 http://zerotwo.access.ly:2096/DougB2023/6501492738/761495
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://zerotwo.access.ly:2096/live/Gerobie2121/3654078129/761495.m3u8
-#EXTINF:-1 tvg-id="CA TLN" tvg-name="CA TLN" tvg-logo="http://185.193.88.130:80/images/68e3cf855cf476bd88f3e8bc1e2ec86c.png" group-title="SPORT",CA TLN
+#EXTINF:-1 tvg-id="CND TLN" tvg-name="CND TLN" tvg-logo="http://185.193.88.130:80/images/68e3cf855cf476bd88f3e8bc1e2ec86c.png" group-title="SPORT",CND TLN
 http://ky-tv.cc:80/Steve666/Steve666/1044577.ts
 #EXTINF:-1 tvg-id="CANADA: TLN" tvg-name="CANADA: TLN" tvg-logo="https://dencheetah.xyz:443/images/a8ZLybME7nvmZTj1j3E8s2XXnOW8i4sc-vKP7h90JDfqlnWn-Ta_cgepraOVU1Le.png" group-title="SPORT",CANADA: TLN
 https://watch.startecmedia.xyz:443/live/SeanK22/9Sz5cGPbTWhS/662599.ts
@@ -4374,6 +4375,8 @@ http://zerotwo.access.ly:2096/ZGSGtV/8735146029/815026
 http://zerotwo.access.ly:2096/Olga24/3614431693/815026
 #EXTINF:-1 tvg-id="CBS SPORTS NETWORK | US" tvg-name="CBS SPORTS NETWORK | US" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" group-title="SPORT",CBS SPORTS NETWORK | US
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1 tvg-id="CBS Sports Network USA SD" tvg-name="CBS Sports Network USA SD" tvg-logo="" group-title="SPORT",CBS Sports Network USA
+http://fortv.cc:8080/cynthia/castey/10454
 #EXTINF:-1 tvg-id="CBS Sports HQ" tvg-name="CBS Sports HQ" tvg-logo="" group-title="SPORT",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="CBS SPORTS GOLAZO NETWORK HD" tvg-name="CBS SPORTS GOLAZO NETWORK HD" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="SPORT",CBS SPORTS GOLAZO NETWORK HD
@@ -4382,8 +4385,7 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-id="Golazo Network (Serie A)" tvg-name="Golazo Network (Serie A)" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D5FE2064-E664-4725-A0EC-BF43F6CF2A43/3-1x1.png" group-title="SPORT",Golazo Network (Serie A)
 https://watch.startecmedia.xyz:443/live/SeanK22/9Sz5cGPbTWhS/647956.ts
-#EXTINF:-1 tvg-id="Golazo Network" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="SPORT",Golazo Network
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjQ4ZTNkNmJlLThmMzQtNDQ0Zi1iNThkLWQ2MGFiZTBjNTNkMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIyMDBhNDEzNC0yYjNmLTExZjEtYjNlYy1iZWI5YmNmMTM4M2YiLCJjbGllbnRJUCI6IjE4NS4yMzYuMjAwLjE3MiIsImNpdHkiOiJMb3MgQW5nZWxlcyIsInBvc3RhbENvZGUiOiI5MDAxMSIsImNvdW50cnkiOiJVUyIsImRtYSI6ODAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzQuMDA5OTk4MzIxNTMzMiwiZGV2aWNlTG9uIjotMTE4LjI2MDAwMjEzNjIzMDQ3LCJwcmVmZXJyZWRMYW5ndWFnZSI6Iml0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMjIuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI4LjAuMC0xMTFiMmI5ZGMwMGJkMGJlYTkwMzBiMzA2NjIxNTllZDllN2M4YmM2IiwiY2xpZW50SUQiOiJkYTlhY2RiNS05ZWM2LTQxMzUtOTM4Zi0xYWE4YmY3Y2Q5NmIiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9Mb3NfQW5nZWxlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IiJ9LCJtdWx0aUF1ZGlvIjp7ImVuYWJsZWQiOnRydWV9LCJtdWx0aVBvZEFkcyI6eyJjb2hvcnQiOiIiLCJlbmFibGVkIjp0cnVlfSwic2VhcmNoQVBJIjp7InF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCJ9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJkYTlhY2RiNS05ZWM2LTQxMzUtOTM4Zi0xYWE4YmY3Y2Q5NmIiLCJmd1ZjSUQyQ29wcGEiOiJkYTlhY2RiNS05ZWM2LTQxMzUtOTM4Zi0xYWE4YmY3Y2Q5NmIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImRhOWFjZGI1LTllYzYtNDEzNS05MzhmLTFhYThiZjdjZDk2YiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDkifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3NzQ3Njg1NTQ1NjcsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzpaR0U1WVdOa1lqVXRPV1ZqTmkwME1UTTFMVGt6T0dZdE1XRmhPR0ptTjJOa09UWmkiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzc0ODU0OTU0LCJpYXQiOjE3NzQ3Njg1NTQsImp0aSI6ImFkMDAwZWRjLWY2NGMtNGFiNS1hOGQ3LWU1NWMzYTdiOGU0YSJ9._HTu3dfnbPJq1IP_cTA6KqyT1LyaBiRILsytu_x2FDo&masterJWTPassthrough=true
+
 #EXTINF:-1 tvg-id="TeleNorba" tvg-name="TeleNorba" tvg-logo="http://odmsto.com/uploads/tv_image/sm/telenorba.jpg" group-title="Altri Canali Nazionali",TeleNorba
 https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="=== ESTERO INGLESE ===" tvg-name="=== ESTERO INGLESE ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="ESTERO INGLESE",=== ESTERO INGLESE ===
