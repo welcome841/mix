@@ -4362,48 +4362,6 @@ http://zerotwo.access.ly:2096/bama1/7908346251/815002
 http://zerotwo.access.ly:2096/bama1/7908346251/815003
 #EXTINF:-1 tvg-id="USA: ESPN U" tvg-name="USA: ESPN U" tvg-logo="https://puddintap.click/ico/USA/ESPNU.png" group-title="SPORT",USA: ESPN U
 http://zerotwo.access.ly:2096/bama1/7908346251/815004
-#EXTINF:-1 tvg-id="ESPN News HD" tvg-name="ESPN News HD" tvg-logo="" group-title="SPORT",ESPN News HD
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="ESPN U HD" tvg-name="ESPN U HD" tvg-logo="" group-title="SPORT",ESPN U HD
-http://zerotwo.access.ly:2096/bama1/7908346251/815004
-#EXTINF:-1 tvg-id="ESPN2 HD" tvg-name="ESPN2 HD" tvg-logo="" group-title="SPORT",ESPN2 HD
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1 HD" tvg-name="Fox Sports 1 HD" tvg-logo="" group-title="SPORT",Fox Sports 1 HD
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="" group-title="SPORT",Fox Sports 2 HD
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/266?mode=0
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/265?mode=0
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/1684?mode=0
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/92?mode=0
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@200.115.120.1:8000/play/ca041
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-https://corgol.com@is.gd/RGZfsF?.m3u8
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/46671?mode=0
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/93?mode=0
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@akn.9845363.xyz:8080/okangencol/170425.sxnmy/323516
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@181.114.57.246:4000/play/eGhTK4fJJR5p5M3N
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@cdn1host.online:2999/xman2b/d5lxdEfHnB/100?mode=0
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://corgol.com@akn.9845363.xyz:8080/okangencol/170425.sxnmy/323517
-#EXTINF:-1 tvg-id="USA: FOX DEPORTES" tvg-name="USA: FOX DEPORTES" tvg-logo="" group-title="SPORT",USA: FOX DEPORTES
-http://zerotwo.access.ly:2096/bama1/7908346251/815034
-#EXTINF:-1 tvg-id="USA: FOX SOCCER PLUS" tvg-name="USA: FOX SOCCER PLUS" tvg-logo="" group-title="SPORT",USA: FOX SOCCER PLUS
-http://zerotwo.access.ly:2096/bama1/7908346251/815035
-#EXTINF:-1 tvg-id="USA: FOX SPORTS 1" tvg-name="USA: FOX SPORTS 1" tvg-logo="" group-title="SPORT",USA: FOX SPORTS 1
-http://zerotwo.access.ly:2096/bama1/7908346251/815036
-#EXTINF:-1 tvg-id="USA: FOX SPORTS 2" tvg-name="USA: FOX SPORTS 2" tvg-logo="" group-title="SPORT",USA: FOX SPORTS 2
-http://zerotwo.access.ly:2096/bama1/7908346251/815037
 #EXTINF:-1 tvg-id="NBC Sports NOW" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99993008/600x200.png?type=white_cropped" group-title="SPORT",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008&ads.asnw=169843&ads.afid=380753925&ads.sfid=17667876&ads.csid=lgchannels_us_nbcusports_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99993008&ads._fw_ifa_type=dpid
 #EXTINF:-1 tvg-id="Fubo Sports" tvg-name="Fubo Sports" tvg-logo="https://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v1.png" group-title="SPORT",Fubo Sports
@@ -4416,6 +4374,8 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports" tvg-name="BeIN Sports" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORT",BeIN Sports
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CAN: TLN" tvg-name="CAN: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CAN: TLN
+https://iptv-org.github.io/channels/ca/TLN#SD
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://zerotwo.access.ly:2096/Olga24/3614431693/761495
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
