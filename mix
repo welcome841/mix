@@ -4374,8 +4374,13 @@ https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 #EXTINF:-1 tvg-id="BeIN Sports" tvg-name="BeIN Sports" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="SPORT",BeIN Sports
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CAN: TLN" tvg-name="CAN: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CAN: TLN
-https://iptv-org.github.io/channels/ca/TLN#SD
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",Tigo Sports (Guatemala) (🇬🇹)
+http://45.5.117.57:8999/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",Eurosport 1 (Francia) (🇫🇷)
+http://41.205.93.154/EUROSPORT1/index.m3u8
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",Eurosport 2 (Francia) (🇫🇷)
+http://41.205.93.154/EUROSPORT2/index.m3u8
+
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
 http://zerotwo.access.ly:2096/Olga24/3614431693/761495
 #EXTINF:-1 tvg-id="CA: TLN" tvg-name="CA: TLN" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/73719.png" group-title="SPORT",CA: TLN
