@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 11-04-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 12-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="RAI",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -4325,6 +4325,14 @@ http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71916.ts
 http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71917.ts
 #EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN 6 SD ARG
 http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71918.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",SporTV HD
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/72332.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",SporTV 2 HD
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/131176.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",SporTV 3 HD
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/131113.ts
+#EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",SporTV 4 HD
+http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/276090.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="SPORT",PT: SPORT TV 1 FHD
 http://fortv.cc:8080/cynthia/castey/167742
