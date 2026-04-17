@@ -4467,12 +4467,14 @@ https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-dash/bbcworld.mpd
 http://ky-tv.cc:80/Steve666/Steve666/1151892.ts
 #EXTINF:-1 tvg-id="itv1 HD" tvg-name="itv1 HD" tvg-logo="" group-title="ESTERO INGLESE",itv1 HD
 http://1tv41.icu:8080/ufBu62/935118/53651
-#EXTINF:-1 tvg-id="itv2 HD" tvg-name="itv2 HD" tvg-logo="" group-title="ESTERO INGLESE",itv2 HD
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 tvg-id="itv3 HD" tvg-name="itv3 HD" tvg-logo="" group-title="ESTERO INGLESE",itv3 HD
-https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
-#EXTINF:-1 tvg-id="itv4 HD" tvg-name="itv4 HD" tvg-logo="" group-title="ESTERO INGLESE",itv4 HD
-https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+#EXTINF:-1 tvg-id="itv1 HD" tvg-name="itv1 HD" tvg-logo="" group-title="ESTERO INGLESE",itv1 ZAPPR
+https://netplus.zappr.stream/itv1.m3u8
+#EXTINF:-1 tvg-id="itv2 HD" tvg-name="itv2 HD" tvg-logo="" group-title="ESTERO INGLESE",itv2 ZAPPR
+https://netplus.zappr.stream/itv2.m3u8
+#EXTINF:-1 tvg-id="itv3 HD" tvg-name="itv3 HD" tvg-logo="" group-title="ESTERO INGLESE",itv3 ZAPPR
+https://netplus.zappr.stream/itv3.m3u8
+#EXTINF:-1 tvg-id="itv4 HD" tvg-name="itv4 HD" tvg-logo="" group-title="ESTERO INGLESE",itv4 ZAPPR
+https://netplus.zappr.stream/itv4.m3u8
 #EXTINF:-1 tvg-id="sky news" tvg-name="sky news" tvg-logo="" group-title="ESTERO INGLESE",sky news
 https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
 #EXTINF:-1 tvg-id="cnn europe HD" tvg-name="cnn europe HD" tvg-logo="" group-title="ESTERO INGLESE",cnn europe HD
