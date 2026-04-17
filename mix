@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 16-04-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 17-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="RAI",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -179,14 +179,10 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
 
-#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1 (stream mdp)
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2 (stream mdp)
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:-1 tvg-id="RTS 1 (Stream 2)" tvg-name="RTS 1 (Stream 2)" tvg-logo="" group-title="Svizzera",RTS 1 (Stream 2)
-https://netplus.zappr.stream/rts2hd.m3u8
-#EXTINF:-1 tvg-id="RTS 2 (Stream 2)" tvg-name="RTS 2 (Stream 2)" tvg-logo="" group-title="Svizzera",RTS 2 (Stream 2)
-https://netplus.zappr.stream/rts2hd.m3u8
+#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts1hd.m3u8
+#EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.M3U8
 #EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="Svizzera",RTS Info HD
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="Couleur 3 (720p)" tvg-name="Couleur 3 (720p)" tvg-logo="" group-title="Svizzera",Couleur 3 (720p)
@@ -4447,6 +4443,10 @@ https://watch.startecmedia.xyz:443/live/SeanK22/9Sz5cGPbTWhS/647956.ts
 https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="=== ESTERO INGLESE ===" tvg-name="=== ESTERO INGLESE ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="ESTERO INGLESE",=== ESTERO INGLESE ===
 http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-id="BBC ONE" tvg-name="BBC ONE" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="ESTERO INGLESE",BBC ONE ZAPPR
+https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c.m3u8
+#EXTINF:-1 tvg-id="BBC ONE" tvg-name="BBC ONE" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="ESTERO INGLESE",BBC TWO ZAPPR
+https://netplus.zappr.stream/bbc2.m3u8
 #EXTINF:-1 tvg-id="BBC ONE" tvg-name="BBC ONE" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="ESTERO INGLESE",BBC ONE
 http://1tv41.icu:8080/ufBu62/935118/53649
 #EXTINF:-1 tvg-id="BBC ONE" tvg-name="BBC ONE" tvg-logo="http://tv.stream4k.cc/stalker_portal/misc/logos/320/8426.png" group-title="ESTERO INGLESE",BBC ONE
