@@ -169,6 +169,22 @@ http://patbuweb.com/iptv/e2liste/startend.avi
 https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSI La2" tvg-name="RSI La2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/320px-RSI_La_2_2012.svg.png" group-title="Svizzera",RSI La2
 https://netplus.zappr.stream/rsila2hd.m3u8
+
+#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
+https://netplus.zappr.stream/rts1hd.m3u8
+#EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2
+https://netplus.zappr.stream/rts2hd.m3u8
+#EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="Svizzera",RTS Info HD
+https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
+#EXTINF:-1 tvg-id="Couleur 3 (720p)" tvg-name="Couleur 3 (720p)" tvg-logo="" group-title="Svizzera",Couleur 3 (720p)
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-id="SRF1" tvg-name="SRF1" tvg-logo="" group-title="Svizzera",SRF1 
+https://netplus.zappr.stream/srf1hd.m3u8
+#EXTINF:-1 tvg-id="SRF2 " tvg-name="SRF2" tvg-logo="" group-title="Svizzera",SRF2 
+https://netplus.zappr.stream/srf2hd.m3u8
+#EXTINF:-1 tvg-id="SRF info" tvg-name="SRF info" tvg-logo="" group-title="Svizzera",SRF info 
+https://netplus.zappr.stream/srfinfo.m3u8
+
 #EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la%201/la1-hd.png" group-title="Svizzera",RSI LA 1 vpn ch
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #EXTINF:-1 tvg-id="RSI LA 2" tvg-name="RSI LA 2" tvg-logo="http://origin.visionblack.xyz/nw/TV%20SAT%201/2/Rsi%20la2/la2-hd.png" group-title="Svizzera",RSI LA 2 vpn ch
@@ -179,20 +195,6 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
 
-#EXTINF:-1 tvg-id="RTS 1 (stream mdp)" tvg-name="RTS 1 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 1
-https://netplus.zappr.stream/rts1hd.m3u8
-#EXTINF:-1 tvg-id="RTS 2 (stream mdp)" tvg-name="RTS 2 (stream mdp)" tvg-logo="" group-title="Svizzera",RTS 2
-https://netplus.zappr.stream/rts2hd.M3U8
-#EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="Svizzera",RTS Info HD
-https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:-1 tvg-id="Couleur 3 (720p)" tvg-name="Couleur 3 (720p)" tvg-logo="" group-title="Svizzera",Couleur 3 (720p)
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:-1 tvg-id="SRF1 (stream mdp)" tvg-name="SRF1 (stream mdp)" tvg-logo="" group-title="Svizzera",SRF1 
-https://netplus.zappr.stream/srf1hd.m3u8
-#EXTINF:-1 tvg-id="SRF2 (stream mdp)" tvg-name="SRF2 (stream mdp)" tvg-logo="" group-title="Svizzera",SRF2 
-https://netplus.zappr.stream/srf2hd.m3u8
-#EXTINF:-1 tvg-id="SRF info (stream mdp)" tvg-name="SRF info (stream mdp)" tvg-logo="" group-title="Svizzera",SRF info 
-https://netplus.zappr.stream/srfinfo.m3u8
 #EXTINF:-1 tvg-id="=== Estero ===" tvg-name="=== Estero ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Estero",=== Estero ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="" group-title="Estero",Rai 1
@@ -4645,17 +4647,17 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 #EXTINF:-1 tvg-id="=== ESTERO VARI ===" tvg-name="=== ESTERO VARI ===" tvg-logo="https://tivustream.website/logoz/logo.png" group-title="ESTERO VARI",=== ESTERO VARI ===
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="RTS 1 HD 1080p" tvg-name="RTS 1 HD 1080p" tvg-logo="" group-title="ESTERO VARI",RTS 1 HD 1080p
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:-1 tvg-id="RTS 2 HD 1080p" tvg-name="RTS 2 HD 1080p" tvg-logo="" group-title="ESTERO VARI",RTS 2 HD 1080p
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+https://netplus.zappr.stream/rts2hd.m3u8
 #EXTINF:-1 tvg-id="RTS Info HD" tvg-name="RTS Info HD" tvg-logo="" group-title="ESTERO VARI",RTS Info HD
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
 #EXTINF:-1 tvg-id="RTS Couleur3 TV" tvg-name="RTS Couleur3 TV" tvg-logo="" group-title="ESTERO VARI",RTS Couleur3 TV
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/Couleur3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TF1 HD 720p" tvg-name="TF1 HD 720p" tvg-logo="" group-title="ESTERO VARI",TF1 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+https://netplus.zappr.stream/tf1hd.m3u8
 #EXTINF:-1 tvg-id="France2 HD 720p" tvg-name="France2 HD 720p" tvg-logo="" group-title="ESTERO VARI",France2 HD 720p
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+https://netplus.zappr.stream/france2hd.m3u8
 #EXTINF:-1 tvg-id="France3 HD 720p" tvg-name="France3 HD 720p" tvg-logo="" group-title="ESTERO VARI",France3 HD 720p
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 #EXTINF:-1 tvg-id="France4 HD 720p" tvg-name="France4 HD 720p" tvg-logo="" group-title="ESTERO VARI",France4 HD 720p
