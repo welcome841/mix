@@ -129,7 +129,7 @@ http://188.12.112.110:4000/play/a04c
 http://marianna484.ddns.net:8000/pz_ora/7Gd6sG4t/27072
 #EXTINF:-1 tvg-id="Sky TG 24" tvg-name="Sky TG 24" tvg-logo="" group-title="SKY",Sky TG 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
-#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="SKY",Sky TG24
+#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="SKY",Sky TG24 1
 http://188.12.112.110:4000/play/a04e
 #EXTINF:-1 tvg-id="Cielo" tvg-name="Cielo" tvg-logo="https://static.sky.it/static_clientlibs/skycielo/clientlibs/clientlib-site/resources/images/facebook.jpg" group-title="SKY",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
