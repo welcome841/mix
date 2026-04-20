@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 19-04-2026---
+#EXTINF:-1 group-title="Fullmix",---LAST UPDATE 20-04-2026---
 https://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="RAI",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
@@ -4260,7 +4260,20 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Futbol
 https://live.teleradiocom.tj/8/3m.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="https://docdog.top/logo/countries/brazil/espn.png" group-title="SPORT",BR: ESPN BR
+http://so119.nehfkcpo.top:8080/12176978596914/dvb7fp75nen9/10703
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="https://docdog.top/logo/countries/brazil/espn2.png" group-title="SPORT",BR: ESPN 2 BR
+http://so119.nehfkcpo.top:8080/12176978596914/dvb7fp75nen9/10704
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN4" tvg-logo="" group-title="SPORT",BR: ESPN4 BR
+http://so119.nehfkcpo.top:8080/12176978596914/dvb7fp75nen9/10671
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="https://docdog.top/logo/countries/brazil/foxsports3.png" group-title="SPORT",BR: FOX SPORTS 2 BR
+http://so119.nehfkcpo.top:8080/12176978596914/dvb7fp75nen9/10708
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="https://docdog.top/logo/countries/brazil/sportv1.png" group-title="SPORT",BR: SPORTV 1 BR
+http://so119.nehfkcpo.top:8080/12176978596914/dvb7fp75nen9/10675
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="https://docdog.top/logo/countries/brazil/sportv2.png" group-title="SPORT",BR: SPORTV 2 BR
+http://so119.nehfkcpo.top:8080/12176978596914/dvb7fp75nen9/10674
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="https://docdog.top/logo/countries/brazil/sportv3.png" group-title="SPORT",BR: SPORTV 3 BR
+http://so119.nehfkcpo.top:8080/12176978596914/dvb7fp75nen9/10673
 
 #EXTINF:-1 tvg-id="USA: ESPN DEPORTES" tvg-name="USA: ESPN DEPORTES" tvg-logo="https://puddintap.click/ico/USA/ESPNDep.png" group-title="SPORT",ESPN FHD ARG
 http://clbsrv.top:80/JanainaRodri412/XJqwJe3A5/71911.ts
